@@ -1,0 +1,10 @@
+ffmpeg.exe in this folder is FFmpeg 4.2.3 (https://ffmpeg.org), a static Windows build that was
+configured with --enable-gpl --enable-version3, so it is licensed under the GNU General Public
+License version 3 (https://www.gnu.org/licenses/gpl-3.0.html).
+
+The Alundra remake only runs it as a separate program (to convert sounds, music and movies while
+the game data is created from your disc); it is not part of the remake's own code.
+
+The source code of FFmpeg 4.2.3 is available from https://ffmpeg.org/releases/ffmpeg-4.2.3.tar.xz
+and from the FFmpeg git repository (https://git.ffmpeg.org/ffmpeg.git, tag n4.2.3).
+Run "ffmpeg.exe -version" for the full build configuration.

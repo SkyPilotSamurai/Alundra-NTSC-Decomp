@@ -1,0 +1,72 @@
+{
+ "source": "SCPS_100.35 (JP boot program), load 0x80020000",
+ "texts": {
+  "800200E4": {
+   "jp": "800205EC",
+   "use": "80027D4C",
+   "what": "YES / NO line: \"hai\" (cells 0-1)",
+   "sjis": "82cd82a2"
+  },
+  "800200E8": {
+   "jp": "800205F2",
+   "use": "80027D4C",
+   "what": "YES / NO line: \"iie\" (cells 3-5, x 0x30 as the US \"No \")",
+   "sjis": "82a282a282a6"
+  },
+  "8002010C": {
+   "jp": "80020370",
+   "use": "800221D8",
+   "what": "state 6: insert the card in slot 1, then try again (state 0x3E9)",
+   "sjis": "83818382838a815b834a815b836882f08141814f814f814f814f814f814f814f8358838d83628367825082d682a282ea82c482ad82be82b382a2814281408140"
+  },
+  "80020144": {
+   "jp": "800202D4",
+   "use": "8002210C",
+   "what": "state 3: no card in any slot - insert one and press Circle",
+   "sjis": "83818382838a815b834a815b836882aa814f814f814f814f814f814f814f814f8358838d8362836782c982b382b382c182c482dc82b982f18142814f814f814f83818382838a815b834a815b836882f08358838d8362836782c982b382b582c4819b837b835e839382f0899f82b582c482ad82be82b382a28142814081408140"
+  },
+  "80020190": {
+   "jp": "800203B4",
+   "use": "80022214",
+   "what": "state 7: no BISCPS-10035 file - back to the title",
+   "sjis": "835a815b8375837483408343838b82aa82a082e882dc82b982f18142814f814f835e83438367838b89e696ca82c982e082c782e882dc82b78142814081408140"
+  },
+  "800201C4": {
+   "jp": "800203F8",
+   "use": "800222C4",
+   "what": "state 0xA: CRC / maker check failed - back to the title",
+   "sjis": "83818382838a815b834a815b836882c988d98fed82aa82a082e882dc82b78142835e83438367838b89e696ca82c982e082c782e882dc82b78142814081408140"
+  },
+  "8002020C": {
+   "jp": "8002043C",
+   "use": "800223D4",
+   "what": "state 0xD: the file has no record - back to the title",
+   "sjis": "93fa8b4c82aa88ea8dfb82e082a082e882dc82b982f18142814f814f814f814f835e83438367838b89e696ca82c982e082c782e882dc82b78142814081408140"
+  },
+  "80020258": {
+   "jp": "8002024C",
+   "use": "80022050",
+   "what": "state 1: slot 1 card answered - using the card in slot 1",
+   "sjis": "8358838d83628367825082cc814f814f814f814f814f814f814f814f814f814f83818382838a815b834a815b836882f08e67977082b582dc82b7814281408140"
+  },
+  "80020284": {
+   "jp": "80020480",
+   "use": "800224BC",
+   "what": "the keeper's words (after the walk in)",
+   "sjis": "93b981418b8182de82e982c882e782ce814f814f814f814f814f814f814f814f965d82dd82cc8f9182f082bb82cc8ee882c98e9d82bd82ea82e68142814f814f965d82dc82ca82c682a282a482cc82c882e78141814f814f814f814f814f814f82b182cc82dc82dc959489ae82a982e789ba82aa82e982aa82e682a281428140"
+  },
+  "8002032C": {
+   "jp": "80020504",
+   "use": "800226C4",
+   "what": "a lectern: resume the game with this data?",
+   "sjis": "82b182cc8366815b835e82c58141814f814f814f814f814f814f814f814f814f8351815b838082f08dc48a4a82b582dc82b782a9814881408140814081408140"
+  }
+ },
+ "unused": {
+  "80020290": {
+   "use": "800220C4",
+   "what": "state 2: a card only in slot 2 - put it in slot 1 (then back to the title)",
+   "sjis": "83818382838a815b834a815b836882cd8141814f814f814f814f814f814f814f8358838d83628367825082d682a282ea82c482ad82be82b382a2814281408140"
+  }
+ }
+}
