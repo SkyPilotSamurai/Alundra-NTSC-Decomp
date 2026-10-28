@@ -136,7 +136,10 @@ class Combat:
                 if not self._overlap(hy, cd, o.mpy, o.size[1]): continue
                 if not self._overlap(hz, ch, o.mpz, o.size[2]): continue
                 kind = e.cur_attack[0] & 15
-                resp = player_responses if o is self.player else (o.balance['responses'] if getattr(o, 'balance', None) else [0x80] * 11)
+                # the target's own record +0x1C4 (0x80039ED0), Alundra's too: his armour / ring
+                # record 0x801E70B8 only counts for the damage (0x8003ACAC), so an immunity
+                # there (Nava's Charm and fire) still lets the hit, knockback and fire land
+                resp = o.balance['responses'] if getattr(o, 'balance', None) else [0x80] * 11
                 val = (o.balance['hp'] if o.balance else 0) if kind == 0 else resp[kind - 1]
                 if val & 0xC0 != 0x80: o.touching = e
                 o.hit_tick = 0x19; e.hits += 1

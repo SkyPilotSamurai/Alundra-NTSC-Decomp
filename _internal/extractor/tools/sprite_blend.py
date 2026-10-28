@@ -40,6 +40,18 @@ def _piece_indices(preview, sheet, sx, sy, w, h):
     return pages[page].crop((sx, sy, min(256, sx + w), min(256, sy + h)))
 
 
+def _page_array(preview, sheet):
+    """The whole 256 x 256 texture page of a piece as palette indices (numpy, [v, u])."""
+    arrays = preview.__dict__.setdefault('indexed_page_arrays', {})
+    page = sheet & 7
+    if page not in arrays:
+        full = _piece_indices(preview, sheet, 0, 0, 256, 256)
+        a = np.zeros((256, 256), np.uint8); f = np.array(full, dtype=np.uint8)
+        a[:f.shape[0], :f.shape[1]] = f
+        arrays[page] = a
+    return arrays[page]
+
+
 def _as_l(image):
     """Palette indices as a greyscale image (never converted through colours)."""
     return Image.fromarray(np.array(image, dtype=np.uint8), 'L')
@@ -72,17 +84,19 @@ def _pieces(preview, pos, count):
             if im is None: continue
             ind = np.array(im); inside = np.array(mask) > 0
         else:
-            flipx = x1 > x2; flipy = y1 > y3
-            sx2 = sx + int(flipx and sx + w < 256); sy2 = sy + int(flipy and sy + h < 256)
-            if sx2 != sx or sy2 != sy: idx = _as_l(_piece_indices(preview, sheet, sx2, sy2, w, h))
+            # an axis-aligned quad (flipped and / or scaled): each screen pixel takes the texel the
+            # GPU interpolates from the vertices, u = sx + floor((x - x1) * w / (x2 - x1)), v alike
+            # (the right / bottom edge is not drawn).  This also gives the flipped pieces' one-texel
+            # shift (u starts at sx + 1).  A flip-then-resize with nearest-neighbour picked other
+            # texels: sprite 21's Fire Book storm lost its middle column (images 2305 / 2369 / 2412).
             dw, dh = abs(x2 - x1), abs(y3 - y1)
             if not dw or not dh: continue
-            im = idx
-            if flipx: im = im.transpose(Image.Transpose.FLIP_LEFT_RIGHT)
-            if flipy: im = im.transpose(Image.Transpose.FLIP_TOP_BOTTOM)
-            if im.size != (dw, dh): im = im.resize((dw, dh), Image.Resampling.NEAREST)
             left, top = min(x1, x2), min(y1, y3)
-            ind = np.array(im); inside = np.ones(ind.shape, bool)
+            X = np.arange(left, left + dw); Y = np.arange(top, top + dh)
+            U = np.clip(sx + np.floor((X - x1) * w / (x2 - x1)).astype(int), 0, 255)
+            V = np.clip(sy + np.floor((Y - y1) * h / (y3 - y1)).astype(int), 0, 255)
+            page = _page_array(preview, sheet)
+            ind = page[V[:, None], U[None, :]]; inside = np.ones(ind.shape, bool)
         rgb, drawn, stp = _palette(preview, palette)
         ind = np.clip(ind, 0, 15)
         out.append(dict(left=left, top=top, rgb=rgb[ind], drawn=drawn[ind] & inside, stp=stp[ind] & inside,

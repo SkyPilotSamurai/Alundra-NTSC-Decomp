@@ -179,7 +179,24 @@ def magic_set(g, v):
 
 @port(0x80030CA4)
 def update_equipment(g):
-    """Boots, armour / rings resistances and Life regeneration (0x80030CA4): not ported."""
+    """Boots, armour / rings resistances and Life regeneration (0x80030CA4).  Ported: the boots
+    level 0x801D8740 (Charm Boots 0x1C = 3, 0x1B = 2, 0x1A = 1, none 0) and the Life regeneration
+    (0x80031110): with no mode flag 0x7C, not frozen, no button held and 0 < Life < max, each of
+    the armour / weapon / ring records with a byte +2 (balance 'hp', Recovery Ring 200) counts
+    frames and gives 1 Life when the count passes it.  The resistances are combat.py's."""
+    g.floor_damage_lock = 3 if has_item(g, 0x1C) else 2 if has_item(g, 0x1B) else 1 if has_item(g, 0x1A) else 0
+    p = g.player; cnt = g.__dict__.setdefault('regen_counts', [0, 0, 0])
+    if not g.mode_flags & 0x7C and not p.frozen and not g.pad_held and p.hp and p.hp < p.hp_max:
+        armour = next((i for i in (20, 19, 18, 17) if has_item(g, i)), 0)
+        hp = p.hp
+        for k, it in enumerate((armour, g.weapon_item(), g.ring_item())):
+            r = g.combat.item_record(it) if it and it > 0 else None
+            if r and r['hp']:
+                cnt[k] += 1
+                if r['hp'] < cnt[k]: cnt[k] = 0; hp += 1
+            else: cnt[k] = 0
+        p.hp = min(hp, p.hp_max)
+    else: cnt[:] = [0, 0, 0]
     hook = getattr(g, 'update_equipment', None)
     if hook: hook()
 

@@ -306,6 +306,7 @@ def msg_start(g, n, mode):
     tab = m.u32(SPEAKER_TEXT if n & 0x80 else GLOBAL_TEXT)
     s = (tab + m.u16(tab + 2 * (n & 0x7F))) & 0xFFFFFFFF
     calls.call(g, 0x80083F74, n, s)
+    g._text_num = n                                    # (the remake's: which text, for message_tick)
     msg_open(g, s, mode)
     return 1
 

@@ -850,7 +850,7 @@ class Game:
         self.combat.set_balance(self.settings.get('balance', 'us'))      # Options > Balance
         self.combat.attach(self.player, 0)
         self.combat.equip_power_fn = lambda anim: self.combat.equip_power(
-            self.weapon_item(), next((r for r in (56, 55, 54, 53, 52, 51) if self.inventory.get(r)), 0),
+            self.weapon_item(), self.ring_item(),
             next((i for i in (20, 19, 18, 17) if self.inventory.get(i)), 0), anim)
         import sprite_ai as _sai
         self.sprite_ai = _sai.SpriteAI(self, ASSETS)
@@ -1229,6 +1229,9 @@ class Game:
         from settings_screen import EXTRA_PRINTS
         st = self.settings
         sp = 0 if st.get('instant_text') else st.get('text_speed', 1)
+        if getattr(self, 'cur_map', None) == 440 and getattr(self, '_text_num', None) in range(0x83, 0x8A):
+            sp = 1                                           # Meia's dream "I spy a cutie guy" game (map 440
+                                                             # texts 3-9): its flags are timed by the printing
         m = self.mem
         running = emenu.task_running(self, 0)
         if not running: self._talk_wait = None               # the window has gone: the voice stops
@@ -1273,6 +1276,7 @@ class Game:
         if ' · ' in text: text = text.split(' · ', 1)[1]
         data = text.encode('latin-1', 'replace')[:0x900] + b'\0'
         for i, c in enumerate(data): self.mem.w8(self.SCRATCH_TEXT + i, c)
+        self._text_num = None
         return bool(emsg.msg_open(self, self.SCRATCH_TEXT, mode))
 
     def close_message(self):
@@ -1833,8 +1837,15 @@ class Game:
             if kind in (7, 9): core.spawn_effect_on(self, 0, 5, 0, target, 1, 0, 0, 0)
         core.random_poofs(self, x, y, z)
 
+    def ring_item(self):
+        """The ring in use (0x80030E20): the item picked on Circle (0x8004F784) when it is a ring
+        (item group 3, 0x33-0x38) and Alundra has it, else none."""
+        from engine import menu as emenu
+        n = self.mem.s16(emenu._stats(self) + 0xC)
+        return n if 0x33 <= n <= 0x38 and emenu.has_item(self, n) else 0
+
     def player_responses(self):
-        rings = next((r for r in (56, 55, 54, 53, 52, 51) if self.inventory.get(r)), 0)
+        rings = self.ring_item()
         return self.combat.player_responses(self.inventory, self.weapon_item(), rings)
 
     def player_hit(self, p):
@@ -1846,7 +1857,7 @@ class Game:
         self.drop_carried(p)
         import combat as _c
         armour = next((i for i in (20, 19, 18, 17) if self.inventory.get(i)), 0)
-        rings = next((r for r in (56, 55, 54, 53, 52, 51) if self.inventory.get(r)), 0)
+        rings = self.ring_item()
         self.combat.damage(p, self.player_responses())
         p.target_anim = 0x3A if p.slope_now == 4 else 0x31
         p.damaged_tick = 0x78
