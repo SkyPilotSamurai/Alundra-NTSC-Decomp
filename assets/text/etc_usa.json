@@ -1,0 +1,549 @@
+{
+ "etc": {
+  "0": "A New Beginning",
+  "1": "Wendell succumbs",
+  "2": "Escape to Tarn's Manor",
+  "3": "The Book of Elna",
+  "4": "Wendell's Salvation",
+  "5": "Collapse of the Mine",
+  "6": "A Prayer for the Miners",
+  "7": "Crossing the Mine",
+  "8": "Dream Revelation",
+  "9": "Leaving the Miners",
+  "10": "Into the Crypt",
+  "11": "Slumber Bummer",
+  "12": "To the Desert of Despair",
+  "13": "Beginning of the End",
+  "14": "A Revelation in Meia",
+  "15": "A Hand for Kline",
+  "16": "The Swamp Thing",
+  "17": "Giles' Salvation",
+  "18": "Cave of Magyscar",
+  "19": "The Sanctuary's Secret",
+  "20": "Sybill's Exit",
+  "21": "Meia's Past",
+  "22": "Nava's Choice",
+  "23": "Bourne of Water",
+  "24": "A Dance with Nirude",
+  "25": "Ronan's Conspiracy",
+  "26": "At Odds with Ronan",
+  "27": "A Letter from Jess",
+  "28": "Elene's 15 Minutes",
+  "29": "Giles, Again",
+  "30": "To Murgg Woods",
+  "31": "Lost in Murgg Woods",
+  "32": "The Giant Tree Tower",
+  "33": "Torla, Mountain of Fire",
+  "34": "Bergus Held Hostage",
+  "35": "Baptism by Fire",
+  "36": "Confronting Ronan",
+  "37": "To Nava",
+  "38": "The Castle in the Lake",
+  "39": "Outside the Castle",
+  "40": "The Great Hall",
+  "41": "Last Armageddon",
+  "42": "0123456789ABCDEF0123456789ABCDE",
+  "64": "Save your progress?",
+  "65": "YES",
+  "66": "NO",
+  "67": "YES",
+  "68": "NO",
+  "69": " obtained!",
+  "70": "\\N Zugyadodoon (XA)",
+  "71": "You're carrying too much to keep\\Nthe",
+  "72": "You peer into the chest in hopes of\\Nfinding something overlooked, but\\Nsadly, it remains empty.",
+  "73": "(System Error)\\NThe item stubbornly refuses to come\\Nout. Is the buffer over limit?",
+  "74": "YES",
+  "75": "NO",
+  "77": " obtained!",
+  "78": "You're carrying too much to keep\\Nthe",
+  "79": ".",
+  "128": "`ktmcq`@@@@@@@@@@@@@@@@@@@@@@@@@",
+  "129": "YES",
+  "130": "NO",
+  "131": "Where shall we record this tale?",
+  "132": "Inscribe your exploits here?",
+  "133": "What tale shall be forgotten?",
+  "134": "Shall I strike this tale from memory?",
+  "135": "Examining the parchment...",
+  "139": "Insert a new book in Slot 1",
+  "140": "and press the \u001c button.",
+  "143": "The book pages are not conditioned yet.",
+  "144": "Shall I take care of this task now?",
+  "145": "Condition (erase) the book in Slot 1",
+  "146": " and reserve 1 volume for the tale?",
+  "147": "The tale cannot be saved.",
+  "148": "Is this understood?",
+  "151": "Not enough parchment exists in this",
+  "152": " book. Press the \u001c button.",
+  "163": "Rending pages from the book...",
+  "165": "Inscribing the tale...",
+  "166": "Do not power off or hit reset!",
+  "167": "Please insert a book (card)",
+  "168": " in Slot 1 and try again.",
+  "169": "Please insert a book (card)",
+  "170": " in Slot 1.",
+  "171": "The book has been changed.",
+  "172": "Try again, please.",
+  "173": "The parchment could not be",
+  "174": "conditioned.",
+  "175": "The inscription was not legible.",
+  "176": "Please try to record the tale again.",
+  "177": "Tale successfully inscribed.",
+  "179": "Reserving one volume for Alundra's",
+  "180": "tale.",
+  "192": "Using the Book in Slot 1.",
+  "193": "Please insert a History Bookin Slot 1.",
+  "194": "No History Book detected in anyslot. Please insert one and pressthe \u001c button.",
+  "195": "Please insert a History Bookin Slot 1.",
+  "196": "No previous record of Alundra'sexploits recorded.",
+  "197": "There is a problem with the book.Returning to the title screen. . .",
+  "198": "To return to the tale, hold thechapter containing the locationyou wish to revisit.If your conviction is not firm,however, leave this sacred placeat once!",
+  "199": "No record exists of Alundra's adventures. You must start a new adventure.",
+  "200": "Would you like to rejoin the tale in this chapter?"
+ },
+ "table": {
+  "0": "Beaumont",
+  "1": "Thyea",
+  "2": "Talis",
+  "3": "Yustel",
+  "4": "Jess",
+  "5": "Ronan",
+  "6": "Sybill",
+  "7": "Sierra",
+  "8": "Olen",
+  "9": "Lyman",
+  "10": "Jaylen",
+  "11": "Zane",
+  "12": "Septimus",
+  "13": "Nadia",
+  "14": "Myra",
+  "15": "Bonaire",
+  "16": "Phineas",
+  "17": "Kline",
+  "18": "Giles",
+  "19": "Kisha",
+  "20": "Elene",
+  "21": "Gustav",
+  "22": "Bergus",
+  "23": "Nestus",
+  "24": "Meade",
+  "25": "Rumi",
+  "26": "Wendell",
+  "27": "Yuri",
+  "28": "Naomi",
+  "29": "Nava",
+  "30": "Cephas",
+  "31": "Lutas",
+  "32": "Fein",
+  "46": "Meia",
+  "75": "Elene",
+  "76": "Bonaire",
+  "77": "Myra",
+  "78": "Nadia",
+  "83": "Sara",
+  "93": "Meia",
+  "98": "Lurvy",
+  "110": "Jeal",
+  "116": "Stenia",
+  "122": "Miming",
+  "123": "Bonaire",
+  "143": "Keysmith",
+  "144": "Meia",
+  "155": "Uma",
+  "156": "Wilda",
+  "160": "Kohei",
+  "161": "Merrick",
+  "162": "Melzas",
+  "170": "Melzas",
+  "176": "Vul",
+  "188": "Lars",
+  "190": "Ronan",
+  "237": "Nirude",
+  "239": "Nirude",
+  "250": "Zazan",
+  "253": "Zorgia"
+ },
+ "items": {
+  "1": {
+   "name": "Dagger",
+   "description": "Small dagger.",
+   "description2": ""
+  },
+  "2": {
+   "name": "Sword",
+   "description": "Traditionally crafted sword.",
+   "description2": "Charge by holding \u001a."
+  },
+  "3": {
+   "name": "Fiend Blade",
+   "description": "Sword given by Stenia",
+   "description2": "Charge by holding \u001a."
+  },
+  "4": {
+   "name": "Holy Sword",
+   "description": "Crafted from dreams.",
+   "description2": "Charge by holding \u001a."
+  },
+  "5": {
+   "name": "Hunter's Bow",
+   "description": "Contains Kline's Soul.",
+   "description2": "Good range, but weak."
+  },
+  "6": {
+   "name": "Willow Bow",
+   "description": "Long range, but weak.",
+   "description2": "Charge by holding \u001a."
+  },
+  "7": {
+   "name": "Spirit Wand",
+   "description": "Creates magic energy.",
+   "description2": "Prevents direct attacks."
+  },
+  "8": {
+   "name": "Legend Sword",
+   "description": "Sword forged for King Snow.",
+   "description2": "Impressive destructive power!"
+  },
+  "9": {
+   "name": "Iron Flail",
+   "description": "Excellent attack power.",
+   "description2": "Can pulverize stone!"
+  },
+  "10": {
+   "name": "Steel Flail",
+   "description": "Fantastic attack power.",
+   "description2": "Charge by holding \u001a."
+  },
+  "14": {
+   "name": "Ice Wand",
+   "description": "Blasts sheets of ice.",
+   "description2": "Charge by holding \u001a."
+  },
+  "16": {
+   "name": "Fire Wand",
+   "description": "Bellows bullets of fire.",
+   "description2": "Charge by holding \u001a."
+  },
+  "17": {
+   "name": "Cloth Armor",
+   "description": "Comfortable cloth protector.",
+   "description2": "Not much of a protection."
+  },
+  "18": {
+   "name": "Leather Armor",
+   "description": "Trendy vest of chamois leather.",
+   "description2": "2X the protection of cloth."
+  },
+  "19": {
+   "name": "Ancient Armor",
+   "description": "Heavy vest made of copper.",
+   "description2": "4X the protection of cloth."
+  },
+  "20": {
+   "name": "Silver Armor",
+   "description": "Holy vest of silver.",
+   "description2": "8X the protection of cloth."
+  },
+  "25": {
+   "name": "Short Boots",
+   "description": "Regular leather walking boots.",
+   "description2": ""
+  },
+  "26": {
+   "name": "Long Boots",
+   "description": "Makes walking in sand easier.",
+   "description2": "Jumping is easier as well."
+  },
+  "27": {
+   "name": "Merman Boots",
+   "description": "Allows one to swim in deep water.",
+   "description2": "Similar to Long Boots."
+  },
+  "28": {
+   "name": "Charm Boots",
+   "description": "Protects wearer from damage.",
+   "description2": "Better than all other boots."
+  },
+  "31": {
+   "name": "Spring Bean",
+   "description": "Seeds of the mystic tree.",
+   "description2": "If planted properly, they grow."
+  },
+  "32": {
+   "name": "Sand Cape",
+   "description": "Enables wearer to dive under sand.",
+   "description2": "\u001c controls diving/rising."
+  },
+  "33": {
+   "name": "Broken Armor",
+   "description": "Stored in Jess' special chest.",
+   "description2": "Looks a little ratty, now."
+  },
+  "35": {
+   "name": "Bomb",
+   "description": "\u001c button sets the bomb.",
+   "description2": "Once lit, throw it immediately!"
+  },
+  "36": {
+   "name": "Herbs",
+   "description": "Refreshes physical strength.",
+   "description2": "Minimum HP 5, Maximum 9."
+  },
+  "37": {
+   "name": "Strength Elixyr",
+   "description": "Recovers HP to maximum.",
+   "description2": ""
+  },
+  "38": {
+   "name": "Magic Elixyr",
+   "description": "Replenishes MP.",
+   "description2": ""
+  },
+  "39": {
+   "name": "Wonder Essence",
+   "description": "Restores HP and MP.",
+   "description2": "Resurrects instantly upon death."
+  },
+  "40": {
+   "name": "Aqua Cape",
+   "description": "Allows movement in whirlpools.",
+   "description2": "Possession activates this."
+  },
+  "41": {
+   "name": "Strength Tonic",
+   "description": "Recovers up to half Max HP.",
+   "description2": "Minimum HP recovery is 10."
+  },
+  "43": {
+   "name": "Earth Scroll",
+   "description": "Level 1 Earth Magic.",
+   "description2": "Rains huge boulders."
+  },
+  "44": {
+   "name": "Earth Book",
+   "description": "Level 2 Earth Magic.",
+   "description2": "Rains huge meteorites."
+  },
+  "45": {
+   "name": "Water Scroll",
+   "description": "Level 1 Water Magic.",
+   "description2": "Water shield + HP recovery."
+  },
+  "46": {
+   "name": "Water Book",
+   "description": "Level 2 Water Magic.",
+   "description2": "Water shield + HP recovery."
+  },
+  "47": {
+   "name": "Fire Scroll",
+   "description": "Level 1 Fire Magic.",
+   "description2": "Attacks with fire missiles."
+  },
+  "48": {
+   "name": "Fire Book",
+   "description": "Level 2 Fire Magic.",
+   "description2": "Attacks with burning magma."
+  },
+  "49": {
+   "name": "Wind Scroll",
+   "description": "Level 1 Wind Magic.",
+   "description2": "Generates deadly lightning."
+  },
+  "50": {
+   "name": "Wind Book",
+   "description": "Level 2 Wind Magic.",
+   "description2": "Generates a huge tornado."
+  },
+  "51": {
+   "name": "Olga's Ring",
+   "description": "Increases Attack Power.",
+   "description2": "Fashionable as a pinky ring."
+  },
+  "52": {
+   "name": "Oak's Ring",
+   "description": "Increases Attack Power.",
+   "description2": ""
+  },
+  "53": {
+   "name": "Silver Armlet",
+   "description": "Increases Defensive Power.",
+   "description2": ""
+  },
+  "54": {
+   "name": "Nava's Charm",
+   "description": "Increases Defensive Power.",
+   "description2": "Neutralizes certain elements."
+  },
+  "55": {
+   "name": "Recovery Ring",
+   "description": "Recovers HP if equipped.",
+   "description2": "Recovers 1 HP every 3 seconds."
+  },
+  "56": {
+   "name": "Refresher",
+   "description": "Recovers HP fast if equipped.",
+   "description2": "Recovers 1 HP every 1/2 second."
+  },
+  "57": {
+   "name": "Secret Pass",
+   "description": "Opens doors to opportunity.",
+   "description2": ""
+  },
+  "59": {
+   "name": "Power Glove",
+   "description": "Allows heavy items to be lifted.",
+   "description2": ""
+  },
+  "60": {
+   "name": "Elevator Key",
+   "description": "Allows access to tree elevator.",
+   "description2": ""
+  },
+  "61": {
+   "name": "Key",
+   "description": "",
+   "description2": ""
+  },
+  "62": {
+   "name": "Ruby Crest",
+   "description": "Blood-colored Crest.",
+   "description2": "Given by Lars at the Crypt."
+  },
+  "63": {
+   "name": "Sapphire Crest",
+   "description": "Blue-green Crest.",
+   "description2": "Given by Jeal at the Swamp Cave."
+  },
+  "64": {
+   "name": "Topaz Crest",
+   "description": "Yellow Crest.",
+   "description2": "Obtained from Nirude."
+  },
+  "65": {
+   "name": "Agate Crest",
+   "description": "Deep Brown Crest.",
+   "description2": "Zazan stole this from Uma."
+  },
+  "66": {
+   "name": "Garnet Crest",
+   "description": "Scarlet-colored Crest.",
+   "description2": "Zazan stole this from Vul."
+  },
+  "67": {
+   "name": "Emerald Crest",
+   "description": "Olive-Green Crest.",
+   "description2": "Obtained from Wilda at Torla."
+  },
+  "68": {
+   "name": "Diamond Crest",
+   "description": "Shimmering Clear Crest.",
+   "description2": "More than two months salary."
+  },
+  "69": {
+   "name": "1 Gilder",
+   "description": "",
+   "description2": ""
+  },
+  "70": {
+   "name": "5 Gilder",
+   "description": "",
+   "description2": ""
+  },
+  "71": {
+   "name": "10 Gilder",
+   "description": "",
+   "description2": ""
+  },
+  "72": {
+   "name": "30 Gilder",
+   "description": "",
+   "description2": ""
+  },
+  "73": {
+   "name": "Sluice Key",
+   "description": "Key from the Desert Shrine.",
+   "description2": "Can drain water in desert."
+  },
+  "74": {
+   "name": "Bouquet",
+   "description": "Jess' Bouquet.",
+   "description2": "Flowers to be offered at Olen's grave."
+  },
+  "75": {
+   "name": "Small Key",
+   "description": "Key Jess was clutching.",
+   "description2": ""
+  },
+  "76": {
+   "name": "Jess' Letter",
+   "description": "Touching goodbye note.",
+   "description2": ""
+  },
+  "77": {
+   "name": "Tree Gem",
+   "description": "Captured from the attacking Murgg.",
+   "description2": ""
+  },
+  "78": {
+   "name": "Zolist's Stone",
+   "description": "Nava wanted you to take this.",
+   "description2": "He said it belonged in the alcove."
+  },
+  "79": {
+   "name": "Gilded Falcon",
+   "description": "Rare treasure.",
+   "description2": ""
+  },
+  "80": {
+   "name": "Magic Seed",
+   "description": "",
+   "description2": ""
+  },
+  "81": {
+   "name": "Small Crystal",
+   "description": "",
+   "description2": ""
+  },
+  "82": {
+   "name": "Large Crystal",
+   "description": "",
+   "description2": ""
+  },
+  "83": {
+   "name": "Life Vessel",
+   "description": "",
+   "description2": ""
+  },
+  "84": {
+   "name": "Dew of Life",
+   "description": "",
+   "description2": ""
+  },
+  "85": {
+   "name": "Drop of Life",
+   "description": "",
+   "description2": ""
+  },
+  "86": {
+   "name": "Water of Life",
+   "description": "",
+   "description2": ""
+  },
+  "87": {
+   "name": "Book of Runes",
+   "description": "Strange book from the Sanctuary.",
+   "description2": ""
+  },
+  "88": {
+   "name": "Book of Elna",
+   "description": "Guidebook found in Tarn's manor.",
+   "description2": ""
+  },
+  "89": {
+   "name": "Curious Key",
+   "description": "Ronan held this key.",
+   "description2": ""
+  }
+ }
+}
