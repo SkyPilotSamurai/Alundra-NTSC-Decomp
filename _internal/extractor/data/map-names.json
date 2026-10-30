@@ -1,0 +1,3877 @@
+{
+  "source": "Randomizer/development/src/constants/map_codes.hpp",
+  "source_commit": "4bbc2bdf7a82adeb1d9ff5a3ab8b11033efe9b5c",
+  "confidence": "source-reported labels; not independently verified room names",
+  "maps": {
+    "0": {
+      "name": "Debug",
+      "symbol": "MAP_DEBUG",
+      "source_line": 5
+    },
+    "1": {
+      "name": "Overworld A1 Great Tree",
+      "symbol": "MAP_OVERWORLD_A1",
+      "source_line": 6,
+      "previous_name": "Overworld A1",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 1
+    },
+    "2": {
+      "name": "Overworld A2 Murgg Woods",
+      "symbol": "MAP_OVERWORLD_A2",
+      "source_line": 7,
+      "previous_name": "Overworld A2",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 2
+    },
+    "3": {
+      "name": "Overworld A3",
+      "symbol": "MAP_OVERWORLD_A3",
+      "source_line": 8,
+      "previous_name": "Overworld A3",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 3
+    },
+    "4": {
+      "name": "Overworld A4 F.Manor (outside)",
+      "symbol": "MAP_OVERWORLD_A4",
+      "source_line": 9,
+      "previous_name": "Overworld A4",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 4
+    },
+    "5": {
+      "name": "Overworld B1 (Lake sector)",
+      "symbol": "MAP_OVERWORLD_B1",
+      "source_line": 10,
+      "previous_name": "Overworld B1",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 5
+    },
+    "6": {
+      "name": "Overworld B2 (C.Mine sector)",
+      "symbol": "MAP_OVERWORLD_B2",
+      "source_line": 11,
+      "previous_name": "Overworld B2",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 6
+    },
+    "7": {
+      "name": "Overworld B3 (Riverside sector)",
+      "symbol": "MAP_OVERWORLD_B3",
+      "source_line": 12,
+      "previous_name": "Overworld B3",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 7
+    },
+    "8": {
+      "name": "Overworld B4 (Nava's sector)",
+      "symbol": "MAP_OVERWORLD_B4",
+      "source_line": 13,
+      "previous_name": "Overworld B4",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 8
+    },
+    "9": {
+      "name": "Overworld C1 (Magy sector)",
+      "symbol": "MAP_OVERWORLD_C1",
+      "source_line": 14,
+      "previous_name": "Overworld C1",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 9
+    },
+    "10": {
+      "name": "Overworld C2 (Sanctuary sector)",
+      "symbol": "MAP_OVERWORLD_C2",
+      "source_line": 15,
+      "previous_name": "Overworld C2",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 10
+    },
+    "11": {
+      "name": "Debug Map (village outside)",
+      "symbol": "MAP_OVERWORLD_INOA_DEBUG",
+      "source_line": 16,
+      "previous_name": "Overworld Inoa Debug",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 11
+    },
+    "12": {
+      "name": "Overworld C4 (Merrick's sector)",
+      "symbol": "MAP_OVERWORLD_C4",
+      "source_line": 17,
+      "previous_name": "Overworld C4",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 12
+    },
+    "13": {
+      "name": "Overworld D1 (Torla sector)",
+      "symbol": "MAP_OVERWORLD_D1",
+      "source_line": 18,
+      "previous_name": "Overworld D1",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 13
+    },
+    "14": {
+      "name": "Overworld D2 (Mill sector)",
+      "symbol": "MAP_OVERWORLD_D2",
+      "source_line": 19,
+      "previous_name": "Overworld D2",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 14
+    },
+    "15": {
+      "name": "Overworld D3 (Tarn Manor sector)",
+      "symbol": "MAP_OVERWORLD_D3",
+      "source_line": 20,
+      "previous_name": "Overworld D3",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 15
+    },
+    "16": {
+      "name": "Overworld D4 (R.Lair sector)",
+      "symbol": "MAP_OVERWORLD_D4",
+      "source_line": 21,
+      "previous_name": "Overworld D4",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 16
+    },
+    "17": {
+      "name": "Overworld E1 (Nirude sector)",
+      "symbol": "MAP_OVERWORLD_E1",
+      "source_line": 22,
+      "previous_name": "Overworld E1",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 17
+    },
+    "18": {
+      "name": "Overworld E2 (Upper desert)",
+      "symbol": "MAP_OVERWORLD_E2",
+      "source_line": 23,
+      "previous_name": "Overworld E2",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 18
+    },
+    "19": {
+      "name": "Overworld E3 (Lower desert)",
+      "symbol": "MAP_OVERWORLD_E3",
+      "source_line": 24,
+      "previous_name": "Overworld E3",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 19
+    },
+    "20": {
+      "name": "Overworld E4 (Cliffs of Madness)",
+      "symbol": "MAP_OVERWORLD_E4",
+      "source_line": 25,
+      "previous_name": "Overworld E4",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 20
+    },
+    "21": {
+      "name": "Lars Crypt 1",
+      "symbol": "MAP_LARS_CRYPT_21",
+      "source_line": 26,
+      "previous_name": "Lars Crypt",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 21
+    },
+    "22": {
+      "name": "Lars Crypt 2",
+      "symbol": "MAP_LARS_CRYPT_22",
+      "source_line": 27,
+      "previous_name": "Lars Crypt",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 22
+    },
+    "23": {
+      "name": "Lars Crypt 3",
+      "symbol": "MAP_LARS_CRYPT_23",
+      "source_line": 28,
+      "previous_name": "Lars Crypt",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 23
+    },
+    "24": {
+      "name": "Lars Crypt 4",
+      "symbol": "MAP_LARS_CRYPT_24",
+      "source_line": 29,
+      "previous_name": "Lars Crypt",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 24
+    },
+    "25": {
+      "name": "Lars Crypt 5",
+      "symbol": "MAP_LARS_CRYPT_25",
+      "source_line": 30,
+      "previous_name": "Lars Crypt",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 25
+    },
+    "26": {
+      "name": "Ancient Shrine 1",
+      "symbol": "MAP_ANCIENT_SHRINE_26",
+      "source_line": 31,
+      "previous_name": "Ancient Shrine",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 26
+    },
+    "27": {
+      "name": "Ancient Shrine 2",
+      "symbol": "MAP_ANCIENT_SHRINE_27",
+      "source_line": 32,
+      "previous_name": "Ancient Shrine",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 27
+    },
+    "28": {
+      "name": "Ancient Shrine 3",
+      "symbol": "MAP_ANCIENT_SHRINE_28",
+      "source_line": 33,
+      "previous_name": "Ancient Shrine",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 28
+    },
+    "29": {
+      "name": "Ancient Shrine 4",
+      "symbol": "MAP_ANCIENT_SHRINE_29",
+      "source_line": 34,
+      "previous_name": "Ancient Shrine",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 29
+    },
+    "30": {
+      "name": "Ancient Shrine 5",
+      "symbol": "MAP_ANCIENT_SHRINE_30",
+      "source_line": 35,
+      "previous_name": "Ancient Shrine",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 30
+    },
+    "31": {
+      "name": "Ancient Shrine 6",
+      "symbol": "MAP_ANCIENT_SHRINE_31",
+      "source_line": 36,
+      "previous_name": "Ancient Shrine",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 31
+    },
+    "32": {
+      "name": "Ancient Shrine 7",
+      "symbol": "MAP_ANCIENT_SHRINE_32",
+      "source_line": 37,
+      "previous_name": "Ancient Shrine",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 32
+    },
+    "33": {
+      "name": "Ancient Shrine 8",
+      "symbol": "MAP_ANCIENT_SHRINE_33",
+      "source_line": 38,
+      "previous_name": "Ancient Shrine",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 33
+    },
+    "34": {
+      "name": "Ancient Shrine 9",
+      "symbol": "MAP_ANCIENT_SHRINE_34",
+      "source_line": 39,
+      "previous_name": "Ancient Shrine",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 34
+    },
+    "35": {
+      "name": "Nirude's Lair Broken 1",
+      "symbol": "MAP_35",
+      "source_line": 40,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 35
+    },
+    "36": {
+      "name": "Nirude's Lair Broken 2",
+      "symbol": "MAP_36",
+      "source_line": 41,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 36
+    },
+    "37": {
+      "name": "Nirude's Lair Broken 3",
+      "symbol": "MAP_37",
+      "source_line": 42,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 37
+    },
+    "38": {
+      "name": "Nirude's Lair Broken 4",
+      "symbol": "MAP_38",
+      "source_line": 43,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 38
+    },
+    "39": {
+      "name": "Nirude's Lair Broken 5",
+      "symbol": "MAP_39",
+      "source_line": 44,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 39
+    },
+    "40": {
+      "name": "Nirude's Lair Broken 6",
+      "symbol": "MAP_40",
+      "source_line": 45,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 40
+    },
+    "41": {
+      "name": "Bonaire's Dream 1",
+      "symbol": "MAP_41",
+      "source_line": 46,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 41
+    },
+    "42": {
+      "name": "Bonaire's Dream 2",
+      "symbol": "MAP_42",
+      "source_line": 47,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 42
+    },
+    "43": {
+      "name": "Bonaire's Dream Unused 1",
+      "symbol": "MAP_43",
+      "source_line": 48,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 43
+    },
+    "44": {
+      "name": "Wendell's Dream",
+      "symbol": "MAP_44",
+      "source_line": 49,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 44
+    },
+    "45": {
+      "name": "Wendell's Dream Unused 1",
+      "symbol": "MAP_45",
+      "source_line": 50,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 45
+    },
+    "46": {
+      "name": "Wendell's Dream Unused 2",
+      "symbol": "MAP_46",
+      "source_line": 51,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 46
+    },
+    "47": {
+      "name": "Bonaire's Dream 3",
+      "symbol": "MAP_47",
+      "source_line": 52,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 47
+    },
+    "48": {
+      "name": "Elene's Dream 1",
+      "symbol": "MAP_48",
+      "source_line": 53,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 48
+    },
+    "49": {
+      "name": "Elene's Dream 2",
+      "symbol": "MAP_49",
+      "source_line": 54,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 49
+    },
+    "50": {
+      "name": "Elene's Dream 3",
+      "symbol": "MAP_50",
+      "source_line": 55,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 50
+    },
+    "51": {
+      "name": "Elene's Dream 4",
+      "symbol": "MAP_51",
+      "source_line": 56,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 51
+    },
+    "52": {
+      "name": "Elene's Dream 5",
+      "symbol": "MAP_52",
+      "source_line": 57,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 52
+    },
+    "53": {
+      "name": "Elene's Dream 6",
+      "symbol": "MAP_53",
+      "source_line": 58,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 53
+    },
+    "54": {
+      "name": "Elene's Dream 7",
+      "symbol": "MAP_54",
+      "source_line": 59,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 54
+    },
+    "55": {
+      "name": "Torla Mountain Unused 1",
+      "symbol": "MAP_55",
+      "source_line": 60,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 55
+    },
+    "56": {
+      "name": "Torla Mountain Unused 2",
+      "symbol": "MAP_56",
+      "source_line": 61,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 56
+    },
+    "57": {
+      "name": "Torla Mountain Unused 3",
+      "symbol": "MAP_57",
+      "source_line": 62,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 57
+    },
+    "58": {
+      "name": "Torla Mountain Unused 4",
+      "symbol": "MAP_58",
+      "source_line": 63,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 58
+    },
+    "59": {
+      "name": "Torla Mountain Unused 5",
+      "symbol": "MAP_59",
+      "source_line": 64,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 59
+    },
+    "60": {
+      "name": "Torla Mountain Unused 6",
+      "symbol": "MAP_60",
+      "source_line": 65,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 60
+    },
+    "61": {
+      "name": "Coal Mine 1",
+      "symbol": "MAP_COAL_MINE_61",
+      "source_line": 66,
+      "previous_name": "Coal Mine",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 61
+    },
+    "62": {
+      "name": "Coal Mine 2",
+      "symbol": "MAP_COAL_MINE_62",
+      "source_line": 67,
+      "previous_name": "Coal Mine",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 62
+    },
+    "63": {
+      "name": "Coal Mine 3",
+      "symbol": "MAP_COAL_MINE_63",
+      "source_line": 68,
+      "previous_name": "Coal Mine",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 63
+    },
+    "64": {
+      "name": "Coal Mine 4",
+      "symbol": "MAP_COAL_MINE_64",
+      "source_line": 69,
+      "previous_name": "Coal Mine",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 64
+    },
+    "65": {
+      "name": "Coal Mine Unused 1",
+      "symbol": "MAP_COAL_MINE_65",
+      "source_line": 70,
+      "previous_name": "Coal Mine",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 65
+    },
+    "66": {
+      "name": "Coal Mine 5",
+      "symbol": "MAP_COAL_MINE_66",
+      "source_line": 71,
+      "previous_name": "Coal Mine",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 66
+    },
+    "67": {
+      "name": "Coal Mine 6",
+      "symbol": "MAP_COAL_MINE_67",
+      "source_line": 72,
+      "previous_name": "Coal Mine",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 67
+    },
+    "68": {
+      "name": "Coal Mine 7",
+      "symbol": "MAP_COAL_MINE_68",
+      "source_line": 73,
+      "previous_name": "Coal Mine",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 68
+    },
+    "69": {
+      "name": "Coastal Cave 1",
+      "symbol": "MAP_COASTAL_CAVE_69",
+      "source_line": 74,
+      "previous_name": "Coastal Cave",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 69
+    },
+    "70": {
+      "name": "Coastal Cave 2",
+      "symbol": "MAP_COASTAL_CAVE_70",
+      "source_line": 75,
+      "previous_name": "Coastal Cave",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 70
+    },
+    "71": {
+      "name": "Coastal Cave 3",
+      "symbol": "MAP_COASTAL_CAVE_71",
+      "source_line": 76,
+      "previous_name": "Coastal Cave",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 71
+    },
+    "72": {
+      "name": "Coastal Cave 4",
+      "symbol": "MAP_COASTAL_CAVE_72",
+      "source_line": 77,
+      "previous_name": "Coastal Cave",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 72
+    },
+    "73": {
+      "name": "Coastal Cave 5",
+      "symbol": "MAP_COASTAL_CAVE_73",
+      "source_line": 78,
+      "previous_name": "Coastal Cave",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 73
+    },
+    "74": {
+      "name": "Coastal Cave 6",
+      "symbol": "MAP_COASTAL_CAVE_74",
+      "source_line": 79,
+      "previous_name": "Coastal Cave",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 74
+    },
+    "75": {
+      "name": "Coastal Cave 7",
+      "symbol": "MAP_COASTAL_CAVE_75",
+      "source_line": 80,
+      "previous_name": "Coastal Cave",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 75
+    },
+    "76": {
+      "name": "Coastal Cave 8",
+      "symbol": "MAP_COASTAL_CAVE_76",
+      "source_line": 81,
+      "previous_name": "Coastal Cave",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 76
+    },
+    "77": {
+      "name": "Underground Waterway 1",
+      "symbol": "MAP_UNDERGROUND_WATERWAY_77",
+      "source_line": 82,
+      "previous_name": "Underground Waterway",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 77
+    },
+    "78": {
+      "name": "Underground Waterway 2",
+      "symbol": "MAP_UNDERGROUND_WATERWAY_78",
+      "source_line": 83,
+      "previous_name": "Underground Waterway",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 78
+    },
+    "79": {
+      "name": "Underground Waterway 3",
+      "symbol": "MAP_UNDERGROUND_WATERWAY_79",
+      "source_line": 84,
+      "previous_name": "Underground Waterway",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 79
+    },
+    "80": {
+      "name": "Reptile Lair 1",
+      "symbol": "MAP_REPTILE_LAIR_80",
+      "source_line": 85,
+      "previous_name": "Reptile Lair",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 80
+    },
+    "81": {
+      "name": "Reptile Lair 2",
+      "symbol": "MAP_REPTILE_LAIR_81",
+      "source_line": 86,
+      "previous_name": "Reptile Lair",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 81
+    },
+    "82": {
+      "name": "Reptile Lair 3",
+      "symbol": "MAP_REPTILE_LAIR_82",
+      "source_line": 87,
+      "previous_name": "Reptile Lair",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 82
+    },
+    "83": {
+      "name": "Reptile Lair 4",
+      "symbol": "MAP_REPTILE_LAIR_83",
+      "source_line": 88,
+      "previous_name": "Reptile Lair",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 83
+    },
+    "84": {
+      "name": "Reptile Lair 5",
+      "symbol": "MAP_REPTILE_LAIR_84",
+      "source_line": 89,
+      "previous_name": "Reptile Lair",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 84
+    },
+    "85": {
+      "name": "Reptile Lair 6",
+      "symbol": "MAP_REPTILE_LAIR_85",
+      "source_line": 90,
+      "previous_name": "Reptile Lair",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 85
+    },
+    "86": {
+      "name": "Magyscar 1",
+      "symbol": "MAP_MAGYSCAR_86",
+      "source_line": 91,
+      "previous_name": "Magyscar",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 86
+    },
+    "87": {
+      "name": "Magyscar 2",
+      "symbol": "MAP_MAGYSCAR_87",
+      "source_line": 92,
+      "previous_name": "Magyscar",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 87
+    },
+    "88": {
+      "name": "Magyscar 3",
+      "symbol": "MAP_MAGYSCAR_88",
+      "source_line": 93,
+      "previous_name": "Magyscar",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 88
+    },
+    "89": {
+      "name": "Magyscar 4",
+      "symbol": "MAP_MAGYSCAR_89",
+      "source_line": 94,
+      "previous_name": "Magyscar",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 89
+    },
+    "90": {
+      "name": "Magyscar 5",
+      "symbol": "MAP_MAGYSCAR_90",
+      "source_line": 95,
+      "previous_name": "Magyscar",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 90
+    },
+    "91": {
+      "name": "Magyscar 6",
+      "symbol": "MAP_MAGYSCAR_91",
+      "source_line": 96,
+      "previous_name": "Magyscar",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 91
+    },
+    "92": {
+      "name": "Magyscar 7",
+      "symbol": "MAP_MAGYSCAR_92",
+      "source_line": 97,
+      "previous_name": "Magyscar",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 92
+    },
+    "93": {
+      "name": "Magyscar 8",
+      "symbol": "MAP_MAGYSCAR_93",
+      "source_line": 98,
+      "previous_name": "Magyscar",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 93
+    },
+    "94": {
+      "name": "Magyscar 9",
+      "symbol": "MAP_MAGYSCAR_94",
+      "source_line": 99,
+      "previous_name": "Magyscar",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 94
+    },
+    "95": {
+      "name": "Magyscar 10",
+      "symbol": "MAP_MAGYSCAR_95",
+      "source_line": 100,
+      "previous_name": "Magyscar",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 95
+    },
+    "96": {
+      "name": "Giles's Dream Unused 1",
+      "symbol": "MAP_96",
+      "source_line": 101,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 96
+    },
+    "97": {
+      "name": "Giles's Dream Unused 2",
+      "symbol": "MAP_97",
+      "source_line": 102,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 97
+    },
+    "98": {
+      "name": "Giles's Dream Unused 3",
+      "symbol": "MAP_98",
+      "source_line": 103,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 98
+    },
+    "99": {
+      "name": "Giles's Dream Unused 4",
+      "symbol": "MAP_99",
+      "source_line": 104,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 99
+    },
+    "100": {
+      "name": "Giles's Dream 1",
+      "symbol": "MAP_100",
+      "source_line": 105,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 100
+    },
+    "101": {
+      "name": "Giles's Dream 2",
+      "symbol": "MAP_101",
+      "source_line": 106,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 101
+    },
+    "102": {
+      "name": "Giles's Dream 3",
+      "symbol": "MAP_102",
+      "source_line": 107,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 102
+    },
+    "103": {
+      "name": "Giles's Dream 4",
+      "symbol": "MAP_103",
+      "source_line": 108,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 103
+    },
+    "104": {
+      "name": "Giles's Dream 5",
+      "symbol": "MAP_104",
+      "source_line": 109,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 104
+    },
+    "105": {
+      "name": "Giles's Dream 6",
+      "symbol": "MAP_105",
+      "source_line": 110,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 105
+    },
+    "106": {
+      "name": "Giles's Dream 7",
+      "symbol": "MAP_106",
+      "source_line": 111,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 106
+    },
+    "107": {
+      "name": "Giles's Dream 8",
+      "symbol": "MAP_107",
+      "source_line": 112,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 107
+    },
+    "108": {
+      "name": "Giles's Dream 9",
+      "symbol": "MAP_108",
+      "source_line": 113,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 108
+    },
+    "109": {
+      "name": "Nestus's Dream 1",
+      "symbol": "MAP_109",
+      "source_line": 114,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 109
+    },
+    "110": {
+      "name": "Nestus's Dream 2",
+      "symbol": "MAP_110",
+      "source_line": 115,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 110
+    },
+    "111": {
+      "name": "Nestus's Dream 3",
+      "symbol": "MAP_111",
+      "source_line": 116,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 111
+    },
+    "112": {
+      "name": "Nestus's Dream 4",
+      "symbol": "MAP_112",
+      "source_line": 117,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 112
+    },
+    "113": {
+      "name": "Nestus's Dream 5",
+      "symbol": "MAP_113",
+      "source_line": 118,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 113
+    },
+    "114": {
+      "name": "Nestus's Dream 6",
+      "symbol": "MAP_114",
+      "source_line": 119,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 114
+    },
+    "115": {
+      "name": "Tarn's Manor 1",
+      "symbol": "MAP_115",
+      "source_line": 120,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 115
+    },
+    "116": {
+      "name": "Tarn's Manor 2",
+      "symbol": "MAP_116",
+      "source_line": 121,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 116
+    },
+    "117": {
+      "name": "Tarn's Manor 3",
+      "symbol": "MAP_117",
+      "source_line": 122,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 117
+    },
+    "118": {
+      "name": "Cliffs of Madness Cavern Unused 1",
+      "symbol": "MAP_118",
+      "source_line": 123,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 118
+    },
+    "119": {
+      "name": "Cliffs of Madness Cavern Unused 2",
+      "symbol": "MAP_119",
+      "source_line": 124,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 119
+    },
+    "120": {
+      "name": "Cliffs of Madness Cavern Unused 3",
+      "symbol": "MAP_120",
+      "source_line": 125,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 120
+    },
+    "121": {
+      "name": "Cliffs of Madness Cavern Unused 4",
+      "symbol": "MAP_121",
+      "source_line": 126,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 121
+    },
+    "122": {
+      "name": "Cliffs of Madness Cavern Unused 5",
+      "symbol": "MAP_122",
+      "source_line": 127,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 122
+    },
+    "123": {
+      "name": "Kline's Dream 1",
+      "symbol": "MAP_123",
+      "source_line": 128,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 123
+    },
+    "124": {
+      "name": "Kline's Dream 2",
+      "symbol": "MAP_124",
+      "source_line": 129,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 124
+    },
+    "125": {
+      "name": "Kline's Dream 3",
+      "symbol": "MAP_125",
+      "source_line": 130,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 125
+    },
+    "126": {
+      "name": "Kline's Dream 4",
+      "symbol": "MAP_126",
+      "source_line": 131,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 126
+    },
+    "127": {
+      "name": "Kline's Dream 5",
+      "symbol": "MAP_127",
+      "source_line": 132,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 127
+    },
+    "128": {
+      "name": "Kline's Dream 6",
+      "symbol": "MAP_128",
+      "source_line": 133,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 128
+    },
+    "129": {
+      "name": "Inoa Village Debug Inside 1",
+      "symbol": "MAP_129",
+      "source_line": 134,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 129
+    },
+    "130": {
+      "name": "Inoa Village Debug Inside 2",
+      "symbol": "MAP_130",
+      "source_line": 135,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 130
+    },
+    "131": {
+      "name": "Inoa Village Debug Inside 3",
+      "symbol": "MAP_131",
+      "source_line": 136,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 131
+    },
+    "132": {
+      "name": "Inoa Village Debug Inside 4",
+      "symbol": "MAP_132",
+      "source_line": 137,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 132
+    },
+    "133": {
+      "name": "Inoa Village Debug Inside 5",
+      "symbol": "MAP_133",
+      "source_line": 138,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 133
+    },
+    "134": {
+      "name": "Inoa Village Debug Inside 6 Merrick's Shop",
+      "symbol": "MAP_134",
+      "source_line": 139,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 134
+    },
+    "135": {
+      "name": "Sanctuary 1",
+      "symbol": "MAP_135",
+      "source_line": 140,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 135
+    },
+    "136": {
+      "name": "Sanctuary 2",
+      "symbol": "MAP_136",
+      "source_line": 141,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 136
+    },
+    "137": {
+      "name": "Sanctuary 3",
+      "symbol": "MAP_137",
+      "source_line": 142,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 137
+    },
+    "138": {
+      "name": "Sanctuary 4",
+      "symbol": "MAP_138",
+      "source_line": 143,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 138
+    },
+    "139": {
+      "name": "Beach Caves - Circle Of Fishes - Cave Before Fire",
+      "symbol": "MAP_139",
+      "source_line": 144,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 139
+    },
+    "140": {
+      "name": "Fire Manor + (Cavern)",
+      "symbol": "MAP_140",
+      "source_line": 145,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 140
+    },
+    "141": {
+      "name": "Cave To Lake",
+      "symbol": "MAP_141",
+      "source_line": 146,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 141
+    },
+    "142": {
+      "name": "Upper Mines (Cavern)",
+      "symbol": "MAP_142",
+      "source_line": 147,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 142
+    },
+    "143": {
+      "name": "house near Coal",
+      "symbol": "MAP_143",
+      "source_line": 148,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 143
+    },
+    "144": {
+      "name": "Nava's Keep 1 & Cabin",
+      "symbol": "MAP_NAVAS_CABIN",
+      "source_line": 149,
+      "previous_name": "Navas Cabin",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 144
+    },
+    "145": {
+      "name": "Magy-Enterance + Sanctuary Top-Left Cave",
+      "symbol": "MAP_145",
+      "source_line": 150,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 145
+    },
+    "146": {
+      "name": "Overworld D2 (Cavern)",
+      "symbol": "MAP_146",
+      "source_line": 151,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 146
+    },
+    "147": {
+      "name": "Great Tree House",
+      "symbol": "MAP_147",
+      "source_line": 152,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 147
+    },
+    "148": {
+      "name": "Great Tree 1",
+      "symbol": "MAP_GREAT_TREE_148",
+      "source_line": 153,
+      "previous_name": "Great Tree",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 148
+    },
+    "149": {
+      "name": "Great Tree 2",
+      "symbol": "MAP_GREAT_TREE_149",
+      "source_line": 154,
+      "previous_name": "Great Tree",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 149
+    },
+    "150": {
+      "name": "Great Tree 3",
+      "symbol": "MAP_GREAT_TREE_150",
+      "source_line": 155,
+      "previous_name": "Great Tree",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 150
+    },
+    "151": {
+      "name": "Great Tree 4",
+      "symbol": "MAP_GREAT_TREE_151",
+      "source_line": 156,
+      "previous_name": "Great Tree",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 151
+    },
+    "152": {
+      "name": "Great Tree 5",
+      "symbol": "MAP_GREAT_TREE_152",
+      "source_line": 157,
+      "previous_name": "Great Tree",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 152
+    },
+    "153": {
+      "name": "Great Tree 6",
+      "symbol": "MAP_GREAT_TREE_153",
+      "source_line": 158,
+      "previous_name": "Great Tree",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 153
+    },
+    "154": {
+      "name": "Great Tree 7",
+      "symbol": "MAP_GREAT_TREE_154",
+      "source_line": 159,
+      "previous_name": "Great Tree",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 154
+    },
+    "155": {
+      "name": "Great Tree 8",
+      "symbol": "MAP_GREAT_TREE_155",
+      "source_line": 160,
+      "previous_name": "Great Tree",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 155
+    },
+    "156": {
+      "name": "Great Tree 9",
+      "symbol": "MAP_GREAT_TREE_156",
+      "source_line": 161,
+      "previous_name": "Great Tree",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 156
+    },
+    "157": {
+      "name": "Fairy Pond Unused",
+      "symbol": "MAP_157",
+      "source_line": 162,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 157
+    },
+    "158": {
+      "name": "Fairy Pond 1",
+      "symbol": "MAP_FAIRY_POND_158",
+      "source_line": 163,
+      "previous_name": "Fairy Pond",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 158
+    },
+    "159": {
+      "name": "Fairy Pond 2",
+      "symbol": "MAP_FAIRY_POND_159",
+      "source_line": 164,
+      "previous_name": "Fairy Pond",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 159
+    },
+    "160": {
+      "name": "Fairy Pond 3",
+      "symbol": "MAP_FAIRY_POND_160",
+      "source_line": 165,
+      "previous_name": "Fairy Pond",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 160
+    },
+    "161": {
+      "name": "Fairy Pond 4",
+      "symbol": "MAP_FAIRY_POND_161",
+      "source_line": 166,
+      "previous_name": "Fairy Pond",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 161
+    },
+    "162": {
+      "name": "Inoa Village 1.0",
+      "symbol": "MAP_162",
+      "source_line": 167,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 162
+    },
+    "163": {
+      "name": "Inoa Village 1.1",
+      "symbol": "MAP_163",
+      "source_line": 168,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 163
+    },
+    "164": {
+      "name": "Inoa Village 1.2",
+      "symbol": "MAP_164",
+      "source_line": 169,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 164
+    },
+    "165": {
+      "name": "Inoa Village 1.3",
+      "symbol": "MAP_165",
+      "source_line": 170,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 165
+    },
+    "166": {
+      "name": "Inoa Village 1.4",
+      "symbol": "MAP_166",
+      "source_line": 171,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 166
+    },
+    "167": {
+      "name": "Inoa Village 1.5",
+      "symbol": "MAP_167",
+      "source_line": 172,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 167
+    },
+    "168": {
+      "name": "Inoa Village 1.6",
+      "symbol": "MAP_168",
+      "source_line": 173,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 168
+    },
+    "169": {
+      "name": "Inoa Village 2.0",
+      "symbol": "MAP_169",
+      "source_line": 174,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 169
+    },
+    "170": {
+      "name": "Inoa Village 2.1",
+      "symbol": "MAP_170",
+      "source_line": 175,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 170
+    },
+    "171": {
+      "name": "Inoa Village 2.2",
+      "symbol": "MAP_171",
+      "source_line": 176,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 171
+    },
+    "172": {
+      "name": "Inoa Village 2.3",
+      "symbol": "MAP_172",
+      "source_line": 177,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 172
+    },
+    "173": {
+      "name": "Inoa Village 2.4",
+      "symbol": "MAP_173",
+      "source_line": 178,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 173
+    },
+    "174": {
+      "name": "Inoa Village 2.5",
+      "symbol": "MAP_174",
+      "source_line": 179,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 174
+    },
+    "175": {
+      "name": "Inoa Village 2.6",
+      "symbol": "MAP_175",
+      "source_line": 180,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 175
+    },
+    "176": {
+      "name": "Inoa Village 3.0",
+      "symbol": "MAP_176",
+      "source_line": 181,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 176
+    },
+    "177": {
+      "name": "Inoa Village 3.1",
+      "symbol": "MAP_177",
+      "source_line": 182,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 177
+    },
+    "178": {
+      "name": "Inoa Village 3.2",
+      "symbol": "MAP_178",
+      "source_line": 183,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 178
+    },
+    "179": {
+      "name": "Inoa Village 3.3",
+      "symbol": "MAP_179",
+      "source_line": 184,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 179
+    },
+    "180": {
+      "name": "Inoa Village 3.4",
+      "symbol": "MAP_180",
+      "source_line": 185,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 180
+    },
+    "181": {
+      "name": "Inoa Village 3.5",
+      "symbol": "MAP_181",
+      "source_line": 186,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 181
+    },
+    "182": {
+      "name": "Inoa Village 3.6",
+      "symbol": "MAP_182",
+      "source_line": 187,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 182
+    },
+    "183": {
+      "name": "Inoa Village 4.0",
+      "symbol": "MAP_183",
+      "source_line": 188,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 183
+    },
+    "184": {
+      "name": "Inoa Village 4.1",
+      "symbol": "MAP_184",
+      "source_line": 189,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 184
+    },
+    "185": {
+      "name": "Inoa Village 4.2",
+      "symbol": "MAP_185",
+      "source_line": 190,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 185
+    },
+    "186": {
+      "name": "Inoa Village 5.0",
+      "symbol": "MAP_186",
+      "source_line": 191,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 186
+    },
+    "187": {
+      "name": "Inoa Village 5.1",
+      "symbol": "MAP_187",
+      "source_line": 192,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 187
+    },
+    "188": {
+      "name": "Inoa Village 5.2",
+      "symbol": "MAP_188",
+      "source_line": 193,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 188
+    },
+    "189": {
+      "name": "Inoa Village 5.3",
+      "symbol": "MAP_189",
+      "source_line": 194,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 189
+    },
+    "190": {
+      "name": "Inoa Village 5.4",
+      "symbol": "MAP_190",
+      "source_line": 195,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 190
+    },
+    "191": {
+      "name": "Inoa Village 5.5",
+      "symbol": "MAP_191",
+      "source_line": 196,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 191
+    },
+    "192": {
+      "name": "Inoa Village 5.6",
+      "symbol": "MAP_192",
+      "source_line": 197,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 192
+    },
+    "193": {
+      "name": "Inoa Village 6.0",
+      "symbol": "MAP_193",
+      "source_line": 198,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 193
+    },
+    "194": {
+      "name": "Inoa Village 6.1",
+      "symbol": "MAP_194",
+      "source_line": 199,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 194
+    },
+    "195": {
+      "name": "Inoa Village 6.2",
+      "symbol": "MAP_195",
+      "source_line": 200,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 195
+    },
+    "196": {
+      "name": "Inoa Village 6.3",
+      "symbol": "MAP_196",
+      "source_line": 201,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 196
+    },
+    "197": {
+      "name": "Inoa Village 6.4",
+      "symbol": "MAP_197",
+      "source_line": 202,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 197
+    },
+    "198": {
+      "name": "Inoa Village 7.0",
+      "symbol": "MAP_198",
+      "source_line": 203,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 198
+    },
+    "199": {
+      "name": "Inoa Village 7.1",
+      "symbol": "MAP_199",
+      "source_line": 204,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 199
+    },
+    "200": {
+      "name": "Inoa Village 7.2",
+      "symbol": "MAP_200",
+      "source_line": 205,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 200
+    },
+    "201": {
+      "name": "Inoa Village 7.3",
+      "symbol": "MAP_201",
+      "source_line": 206,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 201
+    },
+    "202": {
+      "name": "Inoa Village 7.4",
+      "symbol": "MAP_202",
+      "source_line": 207,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 202
+    },
+    "203": {
+      "name": "Inoa Village 7.5",
+      "symbol": "MAP_203",
+      "source_line": 208,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 203
+    },
+    "204": {
+      "name": "Inoa Village 7.6",
+      "symbol": "MAP_204",
+      "source_line": 209,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 204
+    },
+    "205": {
+      "name": "Inoa Village 8.0",
+      "symbol": "MAP_205",
+      "source_line": 210,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 205
+    },
+    "206": {
+      "name": "Inoa Village 8.1",
+      "symbol": "MAP_206",
+      "source_line": 211,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 206
+    },
+    "207": {
+      "name": "Inoa Village 8.2",
+      "symbol": "MAP_207",
+      "source_line": 212,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 207
+    },
+    "208": {
+      "name": "Inoa Village 8.3",
+      "symbol": "MAP_208",
+      "source_line": 213,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 208
+    },
+    "209": {
+      "name": "Inoa Village 8.4",
+      "symbol": "MAP_209",
+      "source_line": 214,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 209
+    },
+    "210": {
+      "name": "Inoa Village 8.5",
+      "symbol": "MAP_210",
+      "source_line": 215,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 210
+    },
+    "211": {
+      "name": "Inoa Village 8.6",
+      "symbol": "MAP_211",
+      "source_line": 216,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 211
+    },
+    "212": {
+      "name": "Inoa Village 9.0",
+      "symbol": "MAP_212",
+      "source_line": 217,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 212
+    },
+    "213": {
+      "name": "Inoa Village 9.1",
+      "symbol": "MAP_213",
+      "source_line": 218,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 213
+    },
+    "214": {
+      "name": "Inoa Village 9.2",
+      "symbol": "MAP_214",
+      "source_line": 219,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 214
+    },
+    "215": {
+      "name": "Inoa Village 9.3",
+      "symbol": "MAP_215",
+      "source_line": 220,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 215
+    },
+    "216": {
+      "name": "Inoa Village 9.4",
+      "symbol": "MAP_216",
+      "source_line": 221,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 216
+    },
+    "217": {
+      "name": "Inoa Village 9.5",
+      "symbol": "MAP_217",
+      "source_line": 222,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 217
+    },
+    "218": {
+      "name": "Inoa Village 9.6",
+      "symbol": "MAP_218",
+      "source_line": 223,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 218
+    },
+    "219": {
+      "name": "Inoa Village 10.0",
+      "symbol": "MAP_219",
+      "source_line": 224,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 219
+    },
+    "220": {
+      "name": "Inoa Village 10.1",
+      "symbol": "MAP_220",
+      "source_line": 225,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 220
+    },
+    "221": {
+      "name": "Inoa Village 10.2",
+      "symbol": "MAP_221",
+      "source_line": 226,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 221
+    },
+    "222": {
+      "name": "Inoa Village 10.3",
+      "symbol": "MAP_222",
+      "source_line": 227,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 222
+    },
+    "223": {
+      "name": "Inoa Village 10.4",
+      "symbol": "MAP_223",
+      "source_line": 228,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 223
+    },
+    "224": {
+      "name": "Inoa Village 10.5",
+      "symbol": "MAP_224",
+      "source_line": 229,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 224
+    },
+    "225": {
+      "name": "Inoa Village 10.6",
+      "symbol": "MAP_225",
+      "source_line": 230,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 225
+    },
+    "226": {
+      "name": "Inoa Village 11.0",
+      "symbol": "MAP_226",
+      "source_line": 231,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 226
+    },
+    "227": {
+      "name": "Inoa Village 11.1",
+      "symbol": "MAP_227",
+      "source_line": 232,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 227
+    },
+    "228": {
+      "name": "Inoa Village 11.2",
+      "symbol": "MAP_228",
+      "source_line": 233,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 228
+    },
+    "229": {
+      "name": "Inoa Village 11.3",
+      "symbol": "MAP_229",
+      "source_line": 234,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 229
+    },
+    "230": {
+      "name": "Inoa Village 12.0",
+      "symbol": "MAP_230",
+      "source_line": 235,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 230
+    },
+    "231": {
+      "name": "Inoa Village 12.1",
+      "symbol": "MAP_231",
+      "source_line": 236,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 231
+    },
+    "232": {
+      "name": "Inoa Village 12.2",
+      "symbol": "MAP_232",
+      "source_line": 237,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 232
+    },
+    "233": {
+      "name": "Inoa Village 12.3",
+      "symbol": "MAP_233",
+      "source_line": 238,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 233
+    },
+    "234": {
+      "name": "Inoa Village 12.4",
+      "symbol": "MAP_234",
+      "source_line": 239,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 234
+    },
+    "235": {
+      "name": "Inoa Village 12.5",
+      "symbol": "MAP_235",
+      "source_line": 240,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 235
+    },
+    "236": {
+      "name": "Inoa Village 12.6",
+      "symbol": "MAP_236",
+      "source_line": 241,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 236
+    },
+    "237": {
+      "name": "Inoa Village 13.0",
+      "symbol": "MAP_237",
+      "source_line": 242,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 237
+    },
+    "238": {
+      "name": "Inoa Village 13.1",
+      "symbol": "MAP_238",
+      "source_line": 243,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 238
+    },
+    "239": {
+      "name": "Inoa Village 13.2",
+      "symbol": "MAP_239",
+      "source_line": 244,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 239
+    },
+    "240": {
+      "name": "Inoa Village 13.3",
+      "symbol": "MAP_240",
+      "source_line": 245,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 240
+    },
+    "241": {
+      "name": "Inoa Village",
+      "symbol": "MAP_INOA_RANDOMIZER",
+      "source_line": 246,
+      "previous_name": "Inoa Randomizer",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 241
+    },
+    "242": {
+      "name": "Jess's House",
+      "symbol": "MAP_JESS_HOUSE_RANDOMIZER",
+      "source_line": 247,
+      "previous_name": "Jess House Randomizer",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 242
+    },
+    "243": {
+      "name": "Inoa Village",
+      "symbol": "MAP_243",
+      "source_line": 248,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 243
+    },
+    "244": {
+      "name": "Inoa Village",
+      "symbol": "MAP_244",
+      "source_line": 249,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 244
+    },
+    "245": {
+      "name": "Inoa Village",
+      "symbol": "MAP_245",
+      "source_line": 250,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 245
+    },
+    "246": {
+      "name": "Inoa Village",
+      "symbol": "MAP_246",
+      "source_line": 251,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 246
+    },
+    "247": {
+      "name": "Inoa Village",
+      "symbol": "MAP_247",
+      "source_line": 252,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 247
+    },
+    "248": {
+      "name": "Inoa Village 15.0",
+      "symbol": "MAP_248",
+      "source_line": 253,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 248
+    },
+    "249": {
+      "name": "Inoa Village 15.1",
+      "symbol": "MAP_249",
+      "source_line": 254,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 249
+    },
+    "250": {
+      "name": "Inoa Village 15.2",
+      "symbol": "MAP_250",
+      "source_line": 255,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 250
+    },
+    "251": {
+      "name": "Inoa Village 15.3",
+      "symbol": "MAP_251",
+      "source_line": 256,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 251
+    },
+    "252": {
+      "name": "Inoa Village 16.0",
+      "symbol": "MAP_252",
+      "source_line": 257,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 252
+    },
+    "253": {
+      "name": "Inoa Village 16.1",
+      "symbol": "MAP_253",
+      "source_line": 258,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 253
+    },
+    "254": {
+      "name": "Inoa Village 16.2",
+      "symbol": "MAP_254",
+      "source_line": 259,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 254
+    },
+    "255": {
+      "name": "Inoa Village 16.3",
+      "symbol": "MAP_255",
+      "source_line": 260,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 255
+    },
+    "256": {
+      "name": "Inoa Village 16.4",
+      "symbol": "MAP_256",
+      "source_line": 261,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 256
+    },
+    "257": {
+      "name": "Inoa Village 16.5",
+      "symbol": "MAP_257",
+      "source_line": 262,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 257
+    },
+    "258": {
+      "name": "Inoa Village 16.6 Naomi's Shop",
+      "symbol": "MAP_258",
+      "source_line": 263,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 258
+    },
+    "259": {
+      "name": "Inoa Village 17.0",
+      "symbol": "MAP_259",
+      "source_line": 264,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 259
+    },
+    "260": {
+      "name": "Jess's House Blue Chest",
+      "symbol": "MAP_JESS_HOUSE_CHEST_OPENABLE",
+      "source_line": 265,
+      "previous_name": "Jess House Chest Openable",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 260
+    },
+    "261": {
+      "name": "Inoa Village 17.2",
+      "symbol": "MAP_261",
+      "source_line": 266,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 261
+    },
+    "262": {
+      "name": "Inoa Village 17.3",
+      "symbol": "MAP_262",
+      "source_line": 267,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 262
+    },
+    "263": {
+      "name": "Inoa Village 17.4",
+      "symbol": "MAP_263",
+      "source_line": 268,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 263
+    },
+    "264": {
+      "name": "Inoa Village 17.5",
+      "symbol": "MAP_264",
+      "source_line": 269,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 264
+    },
+    "265": {
+      "name": "Inoa Village 17.6",
+      "symbol": "MAP_265",
+      "source_line": 270,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 265
+    },
+    "266": {
+      "name": "Inoa Village 18.0",
+      "symbol": "MAP_266",
+      "source_line": 271,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 266
+    },
+    "267": {
+      "name": "Inoa Village 18.1",
+      "symbol": "MAP_267",
+      "source_line": 272,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 267
+    },
+    "268": {
+      "name": "Inoa Village 18.2",
+      "symbol": "MAP_268",
+      "source_line": 273,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 268
+    },
+    "269": {
+      "name": "Inoa Village 18.3",
+      "symbol": "MAP_269",
+      "source_line": 274,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 269
+    },
+    "270": {
+      "name": "Inoa Village 18.4",
+      "symbol": "MAP_270",
+      "source_line": 275,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 270
+    },
+    "271": {
+      "name": "Inoa Village 19.0",
+      "symbol": "MAP_271",
+      "source_line": 276,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 271
+    },
+    "272": {
+      "name": "Inoa Village 19.1",
+      "symbol": "MAP_272",
+      "source_line": 277,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 272
+    },
+    "273": {
+      "name": "Inoa Village 19.2",
+      "symbol": "MAP_273",
+      "source_line": 278,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 273
+    },
+    "274": {
+      "name": "Inoa Village 19.3",
+      "symbol": "MAP_274",
+      "source_line": 279,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 274
+    },
+    "275": {
+      "name": "Inoa Village 20.0",
+      "symbol": "MAP_275",
+      "source_line": 280,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 275
+    },
+    "276": {
+      "name": "Inoa Village 20.1",
+      "symbol": "MAP_276",
+      "source_line": 281,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 276
+    },
+    "277": {
+      "name": "Inoa Village 20.2",
+      "symbol": "MAP_277",
+      "source_line": 282,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 277
+    },
+    "278": {
+      "name": "Inoa Village 20.3",
+      "symbol": "MAP_278",
+      "source_line": 283,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 278
+    },
+    "279": {
+      "name": "Inoa Village 20.4",
+      "symbol": "MAP_279",
+      "source_line": 284,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 279
+    },
+    "280": {
+      "name": "Inoa Village 20.5",
+      "symbol": "MAP_280",
+      "source_line": 285,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 280
+    },
+    "281": {
+      "name": "Inoa Village 20.6",
+      "symbol": "MAP_281",
+      "source_line": 286,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 281
+    },
+    "282": {
+      "name": "Inoa Village 21.0",
+      "symbol": "MAP_282",
+      "source_line": 287,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 282
+    },
+    "283": {
+      "name": "Inoa Village 21.1",
+      "symbol": "MAP_283",
+      "source_line": 288,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 283
+    },
+    "284": {
+      "name": "Inoa Village 21.2",
+      "symbol": "MAP_284",
+      "source_line": 289,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 284
+    },
+    "285": {
+      "name": "Inoa Village 21.3",
+      "symbol": "MAP_285",
+      "source_line": 290,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 285
+    },
+    "286": {
+      "name": "Inoa Village 21.4",
+      "symbol": "MAP_286",
+      "source_line": 291,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 286
+    },
+    "287": {
+      "name": "Inoa Village 21.5",
+      "symbol": "MAP_287",
+      "source_line": 292,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 287
+    },
+    "288": {
+      "name": "Inoa Village 21.6",
+      "symbol": "MAP_288",
+      "source_line": 293,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 288
+    },
+    "289": {
+      "name": "Inoa Village 22.0",
+      "symbol": "MAP_289",
+      "source_line": 294,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 289
+    },
+    "290": {
+      "name": "Inoa Village 22.1",
+      "symbol": "MAP_290",
+      "source_line": 295,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 290
+    },
+    "291": {
+      "name": "Inoa Village 22.2",
+      "symbol": "MAP_291",
+      "source_line": 296,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 291
+    },
+    "292": {
+      "name": "Inoa Village 22.3",
+      "symbol": "MAP_292",
+      "source_line": 297,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 292
+    },
+    "293": {
+      "name": "Inoa Village 23.0",
+      "symbol": "MAP_293",
+      "source_line": 298,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 293
+    },
+    "294": {
+      "name": "Inoa Village 23.1",
+      "symbol": "MAP_294",
+      "source_line": 299,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 294
+    },
+    "295": {
+      "name": "Inoa Village 23.2",
+      "symbol": "MAP_295",
+      "source_line": 300,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 295
+    },
+    "296": {
+      "name": "Inoa Village 23.3",
+      "symbol": "MAP_296",
+      "source_line": 301,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 296
+    },
+    "297": {
+      "name": "Inoa Village 24.0",
+      "symbol": "MAP_297",
+      "source_line": 302,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 297
+    },
+    "298": {
+      "name": "Inoa Village 24.1",
+      "symbol": "MAP_298",
+      "source_line": 303,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 298
+    },
+    "299": {
+      "name": "Inoa Village 24.2",
+      "symbol": "MAP_299",
+      "source_line": 304,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 299
+    },
+    "300": {
+      "name": "Inoa Village 24.3",
+      "symbol": "MAP_300",
+      "source_line": 305,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 300
+    },
+    "301": {
+      "name": "Inoa Village 25.0",
+      "symbol": "MAP_301",
+      "source_line": 306,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 301
+    },
+    "302": {
+      "name": "Inoa Village 25.1",
+      "symbol": "MAP_302",
+      "source_line": 307,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 302
+    },
+    "303": {
+      "name": "Olen's House",
+      "symbol": "MAP_303",
+      "source_line": 308,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 303
+    },
+    "304": {
+      "name": "Ice Manor",
+      "symbol": "MAP_304",
+      "source_line": 309,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 304
+    },
+    "305": {
+      "name": "Meia's Dream Unused 1",
+      "symbol": "MAP_305",
+      "source_line": 310,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 305
+    },
+    "306": {
+      "name": "Meia's Dream Unused 2",
+      "symbol": "MAP_306",
+      "source_line": 311,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 306
+    },
+    "307": {
+      "name": "Meia's Dream Unused 3",
+      "symbol": "MAP_307",
+      "source_line": 312,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 307
+    },
+    "308": {
+      "name": "Meia's Dream Memory 1",
+      "symbol": "MAP_308",
+      "source_line": 313,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 308
+    },
+    "309": {
+      "name": "Meia's Dream Memory 2",
+      "symbol": "MAP_309",
+      "source_line": 314,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 309
+    },
+    "310": {
+      "name": "Meia's Dream Memory 3",
+      "symbol": "MAP_310",
+      "source_line": 315,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 310
+    },
+    "311": {
+      "name": "Lurvy's Well",
+      "symbol": "MAP_311",
+      "source_line": 316,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 311
+    },
+    "312": {
+      "name": "Klark Ship Unused 1",
+      "symbol": "MAP_312",
+      "source_line": 317,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 312
+    },
+    "313": {
+      "name": "Klark Ship Unused 2",
+      "symbol": "MAP_313",
+      "source_line": 318,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 313
+    },
+    "314": {
+      "name": "Nava's Keep Unused 1 (Murgg Woods Base)",
+      "symbol": "MAP_314",
+      "source_line": 319,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 314
+    },
+    "315": {
+      "name": "Nava's Keep Unused 2 (Murgg Woods Base)",
+      "symbol": "MAP_315",
+      "source_line": 320,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 315
+    },
+    "316": {
+      "name": "Nava's Keep Unused 3 (Murgg Woods Base)",
+      "symbol": "MAP_316",
+      "source_line": 321,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 316
+    },
+    "317": {
+      "name": "Nava's Keep Unused 4 (Murgg Woods Base)",
+      "symbol": "MAP_317",
+      "source_line": 322,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 317
+    },
+    "318": {
+      "name": "Nava's Keep Unused 5 (Murgg Woods Base)",
+      "symbol": "MAP_318",
+      "source_line": 323,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 318
+    },
+    "319": {
+      "name": "Nava's Keep Unused 6 (Murgg Woods Base)",
+      "symbol": "MAP_319",
+      "source_line": 324,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 319
+    },
+    "320": {
+      "name": "Klark Ship Unused 3",
+      "symbol": "MAP_320",
+      "source_line": 325,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 320
+    },
+    "321": {
+      "name": "Zorgia Boss Room",
+      "symbol": "MAP_321",
+      "source_line": 326,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 321
+    },
+    "322": {
+      "name": "Corpse Worm Boss Room",
+      "symbol": "MAP_322",
+      "source_line": 327,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 322
+    },
+    "323": {
+      "name": "Dark Dragon Boss Room",
+      "symbol": "MAP_323",
+      "source_line": 328,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 323
+    },
+    "324": {
+      "name": "Nirude Boss Room",
+      "symbol": "MAP_324",
+      "source_line": 329,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 324
+    },
+    "325": {
+      "name": "Torla Moutain Wilda Boss Room",
+      "symbol": "MAP_325",
+      "source_line": 330,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 325
+    },
+    "326": {
+      "name": "Ronan Boss Room",
+      "symbol": "MAP_326",
+      "source_line": 331,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 326
+    },
+    "327": {
+      "name": "Melzas Boss Room",
+      "symbol": "MAP_327",
+      "source_line": 332,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 327
+    },
+    "328": {
+      "name": "Coal Mine 8",
+      "symbol": "MAP_COAL_MINE_328",
+      "source_line": 333,
+      "previous_name": "Coal Mine",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 328
+    },
+    "329": {
+      "name": "Coal Mine 9",
+      "symbol": "MAP_COAL_MINE_329",
+      "source_line": 334,
+      "previous_name": "Coal Mine",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 329
+    },
+    "330": {
+      "name": "Jess Cutscene 1",
+      "symbol": "MAP_330",
+      "source_line": 335,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 330
+    },
+    "331": {
+      "name": "Jess Cutscene 2",
+      "symbol": "MAP_331",
+      "source_line": 336,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 331
+    },
+    "332": {
+      "name": "Jess Cutscene 3 Lutas's House",
+      "symbol": "MAP_332",
+      "source_line": 337,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 332
+    },
+    "333": {
+      "name": "Jess Cutscene 4",
+      "symbol": "MAP_333",
+      "source_line": 338,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 333
+    },
+    "334": {
+      "name": "Jess Cutscene 5",
+      "symbol": "MAP_334",
+      "source_line": 339,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 334
+    },
+    "335": {
+      "name": "Jess Cutscene 6",
+      "symbol": "MAP_335",
+      "source_line": 340,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 335
+    },
+    "336": {
+      "name": "Jess Cutscene 7",
+      "symbol": "MAP_336",
+      "source_line": 341,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 336
+    },
+    "337": {
+      "name": "Lake Shrine Inside 1",
+      "symbol": "MAP_337",
+      "source_line": 342,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 337
+    },
+    "338": {
+      "name": "Lake Shrine Inside 2",
+      "symbol": "MAP_338",
+      "source_line": 343,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 338
+    },
+    "339": {
+      "name": "Lake Shrine Inside 3",
+      "symbol": "MAP_339",
+      "source_line": 344,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 339
+    },
+    "340": {
+      "name": "Lake Shrine Inside 4",
+      "symbol": "MAP_340",
+      "source_line": 345,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 340
+    },
+    "341": {
+      "name": "Lake Shrine Inside 5",
+      "symbol": "MAP_341",
+      "source_line": 346,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 341
+    },
+    "342": {
+      "name": "Lake Shrine Inside 6",
+      "symbol": "MAP_342",
+      "source_line": 347,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 342
+    },
+    "343": {
+      "name": "Lake Shrine Inside 7",
+      "symbol": "MAP_343",
+      "source_line": 348,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 343
+    },
+    "344": {
+      "name": "Lake Shrine Inside 8",
+      "symbol": "MAP_344",
+      "source_line": 349,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 344
+    },
+    "345": {
+      "name": "Lake Shrine Inside 9",
+      "symbol": "MAP_345",
+      "source_line": 350,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 345
+    },
+    "346": {
+      "name": "Lake Shrine Inside 10",
+      "symbol": "MAP_346",
+      "source_line": 351,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 346
+    },
+    "347": {
+      "name": "Lake Shrine Inside 11",
+      "symbol": "MAP_347",
+      "source_line": 352,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 347
+    },
+    "348": {
+      "name": "Lake Shrine Inside 12",
+      "symbol": "MAP_348",
+      "source_line": 353,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 348
+    },
+    "349": {
+      "name": "Lake Shrine Inside 13",
+      "symbol": "MAP_349",
+      "source_line": 354,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 349
+    },
+    "350": {
+      "name": "Lake Shrine Inside 14",
+      "symbol": "MAP_350",
+      "source_line": 355,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 350
+    },
+    "351": {
+      "name": "Lake Shrine Outside 1",
+      "symbol": "MAP_351",
+      "source_line": 356,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 351
+    },
+    "352": {
+      "name": "Lake Shrine Outside 2",
+      "symbol": "MAP_352",
+      "source_line": 357,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 352
+    },
+    "353": {
+      "name": "Lake Shrine Outside 3",
+      "symbol": "MAP_353",
+      "source_line": 358,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 353
+    },
+    "354": {
+      "name": "Lake Shrine Outside 4",
+      "symbol": "MAP_354",
+      "source_line": 359,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 354
+    },
+    "355": {
+      "name": "Lake Shrine Balcony 1",
+      "symbol": "MAP_355",
+      "source_line": 360,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 355
+    },
+    "356": {
+      "name": "Lake Shrine Balcony 2",
+      "symbol": "MAP_356",
+      "source_line": 361,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 356
+    },
+    "357": {
+      "name": "Inoa Village 26.0",
+      "symbol": "MAP_357",
+      "source_line": 362,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 357
+    },
+    "358": {
+      "name": "Inoa Village 26.1",
+      "symbol": "MAP_358",
+      "source_line": 363,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 358
+    },
+    "359": {
+      "name": "Inoa Village 26.2",
+      "symbol": "MAP_359",
+      "source_line": 364,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 359
+    },
+    "360": {
+      "name": "Inoa Village 26.3",
+      "symbol": "MAP_360",
+      "source_line": 365,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 360
+    },
+    "361": {
+      "name": "Inoa Village 27.0",
+      "symbol": "MAP_361",
+      "source_line": 366,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 361
+    },
+    "362": {
+      "name": "Olen's Dream 1",
+      "symbol": "MAP_362",
+      "source_line": 367,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 362
+    },
+    "363": {
+      "name": "Olen's Dream 2",
+      "symbol": "MAP_363",
+      "source_line": 368,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 363
+    },
+    "364": {
+      "name": "Inoa Village 28.0",
+      "symbol": "MAP_364",
+      "source_line": 369,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 364
+    },
+    "365": {
+      "name": "Inoa Village 28.1",
+      "symbol": "MAP_365",
+      "source_line": 370,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 365
+    },
+    "366": {
+      "name": "Inoa Village 28.2",
+      "symbol": "MAP_366",
+      "source_line": 371,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 366
+    },
+    "367": {
+      "name": "Inoa Village 29.0",
+      "symbol": "MAP_367",
+      "source_line": 372,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 367
+    },
+    "368": {
+      "name": "Great Tree Melzas Cutscene",
+      "symbol": "MAP_368",
+      "source_line": 373,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 368
+    },
+    "369": {
+      "name": "Great Tree Burgus Cutscene",
+      "symbol": "MAP_369",
+      "source_line": 374,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 369
+    },
+    "370": {
+      "name": "Inoa Village 30.6 (unused)",
+      "symbol": "MAP_370",
+      "source_line": 375,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 370
+    },
+    "371": {
+      "name": "Inoa Village 30.0",
+      "symbol": "MAP_371",
+      "source_line": 376,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 371
+    },
+    "372": {
+      "name": "Inoa Village 30.1",
+      "symbol": "MAP_372",
+      "source_line": 377,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 372
+    },
+    "373": {
+      "name": "Inoa Village 30.2",
+      "symbol": "MAP_373",
+      "source_line": 378,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 373
+    },
+    "374": {
+      "name": "Inoa Village 30.3",
+      "symbol": "MAP_374",
+      "source_line": 379,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 374
+    },
+    "375": {
+      "name": "Inoa Village 30.4",
+      "symbol": "MAP_375",
+      "source_line": 380,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 375
+    },
+    "376": {
+      "name": "Inoa Village 30.5",
+      "symbol": "MAP_376",
+      "source_line": 381,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 376
+    },
+    "377": {
+      "name": "Inoa Village 30.6",
+      "symbol": "MAP_377",
+      "source_line": 382,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 377
+    },
+    "378": {
+      "name": "Lake Shrine Bridge",
+      "symbol": "MAP_378",
+      "source_line": 383,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 378
+    },
+    "379": {
+      "name": "Lake Shrine Outside 5",
+      "symbol": "MAP_379",
+      "source_line": 384,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 379
+    },
+    "380": {
+      "name": "Mimics Cave",
+      "symbol": "MAP_380",
+      "source_line": 385,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 380
+    },
+    "381": {
+      "name": "Megalith Portal Chamber",
+      "symbol": "MAP_381",
+      "source_line": 386,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 381
+    },
+    "382": {
+      "name": "Overworld A2 Murgg Woods 1",
+      "symbol": "MAP_382",
+      "source_line": 387,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 382
+    },
+    "383": {
+      "name": "Overworld A2 Murgg Woods 2",
+      "symbol": "MAP_383",
+      "source_line": 388,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 383
+    },
+    "384": {
+      "name": "Overworld A2 Murgg Woods 3",
+      "symbol": "MAP_384",
+      "source_line": 389,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 384
+    },
+    "385": {
+      "name": "Overworld A2 Murgg Woods 4",
+      "symbol": "MAP_385",
+      "source_line": 390,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 385
+    },
+    "386": {
+      "name": "Overworld A2 Murgg Woods 5",
+      "symbol": "MAP_386",
+      "source_line": 391,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 386
+    },
+    "387": {
+      "name": "Inoa Village 15.4",
+      "symbol": "MAP_387",
+      "source_line": 392,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 387
+    },
+    "388": {
+      "name": "Nirude's Lair Cutscene 2",
+      "symbol": "MAP_388",
+      "source_line": 393,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 388
+    },
+    "389": {
+      "name": "Klark Ship 1",
+      "symbol": "MAP_389",
+      "source_line": 394,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 389
+    },
+    "390": {
+      "name": "Klark Ship 2",
+      "symbol": "MAP_390",
+      "source_line": 395,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 390
+    },
+    "391": {
+      "name": "Klark Ship 3",
+      "symbol": "MAP_391",
+      "source_line": 396,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 391
+    },
+    "392": {
+      "name": "Klark Ship 4",
+      "symbol": "MAP_392",
+      "source_line": 397,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 392
+    },
+    "393": {
+      "name": "Mill Cutscene",
+      "symbol": "MAP_393",
+      "source_line": 398,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 393
+    },
+    "394": {
+      "name": "Riverside Bar 1 Casino",
+      "symbol": "MAP_RIVERSIDE_BAR",
+      "source_line": 399,
+      "previous_name": "Riverside Bar",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 394
+    },
+    "395": {
+      "name": "Overworld D2 Watermill House",
+      "symbol": "MAP_395",
+      "source_line": 400,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 395
+    },
+    "396": {
+      "name": "E2 Berue's Chamber - Burning Pillars Cave",
+      "symbol": "MAP_396",
+      "source_line": 401,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 396
+    },
+    "397": {
+      "name": "Shack Cavern Unused",
+      "symbol": "MAP_397",
+      "source_line": 402,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 397
+    },
+    "398": {
+      "name": "Lurvy's Shop",
+      "symbol": "MAP_398",
+      "source_line": 403,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 398
+    },
+    "399": {
+      "name": "Overworld A2 Murgg Woods 6",
+      "symbol": "MAP_399",
+      "source_line": 404,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 399
+    },
+    "400": {
+      "name": "Ancient Shrine Unused 1",
+      "symbol": "MAP_400",
+      "source_line": 405,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 400
+    },
+    "401": {
+      "name": "Cliffs of Madness Cavern",
+      "symbol": "MAP_401",
+      "source_line": 406,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 401
+    },
+    "402": {
+      "name": "Overworld E3 Despair Desert Cave (Sand Cape)",
+      "symbol": "MAP_402",
+      "source_line": 407,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 402
+    },
+    "403": {
+      "name": "Despair Desert Maze 1",
+      "symbol": "MAP_403",
+      "source_line": 408,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 403
+    },
+    "404": {
+      "name": "Despair Desert Maze 2",
+      "symbol": "MAP_404",
+      "source_line": 409,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 404
+    },
+    "405": {
+      "name": "Despair Desert Maze 3",
+      "symbol": "MAP_405",
+      "source_line": 410,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 405
+    },
+    "406": {
+      "name": "Despair Desert Maze 4",
+      "symbol": "MAP_406",
+      "source_line": 411,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 406
+    },
+    "407": {
+      "name": "Overworld C4 Outlook Point 2",
+      "symbol": "MAP_OVERWORLD_C4_MERRICK_OPEN_VARIANT",
+      "source_line": 412,
+      "previous_name": "Overworld C4 Merrick Open Variant",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 407
+    },
+    "408": {
+      "name": "Reptile Lair 1",
+      "symbol": "MAP_408",
+      "source_line": 413,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 408
+    },
+    "409": {
+      "name": "Reptile Lair 2",
+      "symbol": "MAP_409",
+      "source_line": 414,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 409
+    },
+    "410": {
+      "name": "Reptile Lair 3",
+      "symbol": "MAP_410",
+      "source_line": 415,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 410
+    },
+    "411": {
+      "name": "Reptile Lair 4",
+      "symbol": "MAP_411",
+      "source_line": 416,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 411
+    },
+    "412": {
+      "name": "Sybill Cutscene 1",
+      "symbol": "MAP_412",
+      "source_line": 417,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 412
+    },
+    "413": {
+      "name": "Sybill Cutscene 2",
+      "symbol": "MAP_413",
+      "source_line": 418,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 413
+    },
+    "414": {
+      "name": "Sybill Cutscene 3",
+      "symbol": "MAP_414",
+      "source_line": 419,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 414
+    },
+    "415": {
+      "name": "Sybill Cutscene 4",
+      "symbol": "MAP_415",
+      "source_line": 420,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 415
+    },
+    "416": {
+      "name": "Beach Arrival Cutscene",
+      "symbol": "MAP_416",
+      "source_line": 421,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 416
+    },
+    "417": {
+      "name": "Inoa Village 31.0",
+      "symbol": "MAP_417",
+      "source_line": 422,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 417
+    },
+    "418": {
+      "name": "Inoa Village 31.2",
+      "symbol": "MAP_418",
+      "source_line": 423,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 418
+    },
+    "419": {
+      "name": "Inoa Village 31.3",
+      "symbol": "MAP_419",
+      "source_line": 424,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 419
+    },
+    "420": {
+      "name": "Nava's Keep Unused",
+      "symbol": "MAP_420",
+      "source_line": 425,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 420
+    },
+    "421": {
+      "name": "Nirude's Lair 1",
+      "symbol": "MAP_421",
+      "source_line": 426,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 421
+    },
+    "422": {
+      "name": "Nirude's Lair 2",
+      "symbol": "MAP_422",
+      "source_line": 427,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 422
+    },
+    "423": {
+      "name": "Nirude's Lair 3",
+      "symbol": "MAP_423",
+      "source_line": 428,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 423
+    },
+    "424": {
+      "name": "Nirude's Lair 4",
+      "symbol": "MAP_424",
+      "source_line": 429,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 424
+    },
+    "425": {
+      "name": "Nirude's Lair 5",
+      "symbol": "MAP_425",
+      "source_line": 430,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 425
+    },
+    "426": {
+      "name": "Nirude's Lair 6",
+      "symbol": "MAP_426",
+      "source_line": 431,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 426
+    },
+    "427": {
+      "name": "Unknown Dungeon Unused 1",
+      "symbol": "MAP_427",
+      "source_line": 432,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 427
+    },
+    "428": {
+      "name": "Unknown Dungeon Unused 2",
+      "symbol": "MAP_428",
+      "source_line": 433,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 428
+    },
+    "429": {
+      "name": "Nava's Keep 2",
+      "symbol": "MAP_429",
+      "source_line": 434,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 429
+    },
+    "430": {
+      "name": "Nava's Keep 3",
+      "symbol": "MAP_430",
+      "source_line": 435,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 430
+    },
+    "431": {
+      "name": "Nava's Keep 4",
+      "symbol": "MAP_431",
+      "source_line": 436,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 431
+    },
+    "432": {
+      "name": "Nava's Keep 5",
+      "symbol": "MAP_432",
+      "source_line": 437,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 432
+    },
+    "433": {
+      "name": "Lake Shrine Outside 6",
+      "symbol": "MAP_433",
+      "source_line": 438,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 433
+    },
+    "434": {
+      "name": "Lake Shrine Outside 7",
+      "symbol": "MAP_434",
+      "source_line": 439,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 434
+    },
+    "435": {
+      "name": "Elene's Dream End 1",
+      "symbol": "MAP_435",
+      "source_line": 440,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 435
+    },
+    "436": {
+      "name": "Elene's Dream End 2",
+      "symbol": "MAP_436",
+      "source_line": 441,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 436
+    },
+    "437": {
+      "name": "Elene's Dream End 3",
+      "symbol": "MAP_437",
+      "source_line": 442,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 437
+    },
+    "438": {
+      "name": "Elene's Dream End 4",
+      "symbol": "MAP_438",
+      "source_line": 443,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 438
+    },
+    "439": {
+      "name": "Overworld E1 (Nirude sector)",
+      "symbol": "MAP_OVERWORLD_E1_VARIANT",
+      "source_line": 444,
+      "previous_name": "Overworld E1 Variant",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 439
+    },
+    "440": {
+      "name": "Meia's Dream 1",
+      "symbol": "MAP_440",
+      "source_line": 445,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 440
+    },
+    "441": {
+      "name": "Meia's Dream 2",
+      "symbol": "MAP_441",
+      "source_line": 446,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 441
+    },
+    "442": {
+      "name": "Meia's Dream 3",
+      "symbol": "MAP_442",
+      "source_line": 447,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 442
+    },
+    "443": {
+      "name": "Torla Mountain 1",
+      "symbol": "MAP_TORLA_MOUNTAIN_443",
+      "source_line": 448,
+      "previous_name": "Torla Mountain",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 443
+    },
+    "444": {
+      "name": "Torla Mountain 2",
+      "symbol": "MAP_TORLA_MOUNTAIN_444",
+      "source_line": 449,
+      "previous_name": "Torla Mountain",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 444
+    },
+    "445": {
+      "name": "Torla Mountain 3",
+      "symbol": "MAP_TORLA_MOUNTAIN_445",
+      "source_line": 450,
+      "previous_name": "Torla Mountain",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 445
+    },
+    "446": {
+      "name": "Torla Mountain 4",
+      "symbol": "MAP_TORLA_MOUNTAIN_446",
+      "source_line": 451,
+      "previous_name": "Torla Mountain",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 446
+    },
+    "447": {
+      "name": "Torla Mountain 5",
+      "symbol": "MAP_TORLA_MOUNTAIN_447",
+      "source_line": 452,
+      "previous_name": "Torla Mountain",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 447
+    },
+    "448": {
+      "name": "Torla Mountain 6",
+      "symbol": "MAP_TORLA_MOUNTAIN_448",
+      "source_line": 453,
+      "previous_name": "Torla Mountain",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 448
+    },
+    "449": {
+      "name": "Giles's Dream Boss Room",
+      "symbol": "MAP_449",
+      "source_line": 454,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 449
+    },
+    "450": {
+      "name": "Overworld E2 Despair Desert North Drained",
+      "symbol": "MAP_450",
+      "source_line": 455,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 450
+    },
+    "451": {
+      "name": "Nirude's Lair Cutscene 1",
+      "symbol": "MAP_451",
+      "source_line": 456,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 451
+    },
+    "452": {
+      "name": "Coal Mine Save Room",
+      "symbol": "MAP_452",
+      "source_line": 457,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 452
+    },
+    "453": {
+      "name": "Lars Crypt Save Room",
+      "symbol": "MAP_453",
+      "source_line": 458,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 453
+    },
+    "454": {
+      "name": "Coastal Cave Save Room",
+      "symbol": "MAP_454",
+      "source_line": 459,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 454
+    },
+    "455": {
+      "name": "Ancient Shrine Save Room",
+      "symbol": "MAP_455",
+      "source_line": 460,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 455
+    },
+    "456": {
+      "name": "Fairy Pond Save Room Unused",
+      "symbol": "MAP_456",
+      "source_line": 461,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 456
+    },
+    "457": {
+      "name": "Underground Waterway Save Room Unused",
+      "symbol": "MAP_457",
+      "source_line": 462,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 457
+    },
+    "458": {
+      "name": "Reptile Lair Save Room",
+      "symbol": "MAP_458",
+      "source_line": 463,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 458
+    },
+    "459": {
+      "name": "Magyscar Save Room",
+      "symbol": "MAP_459",
+      "source_line": 464,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 459
+    },
+    "460": {
+      "name": "Nirude's Lair Save Room",
+      "symbol": "MAP_460",
+      "source_line": 465,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 460
+    },
+    "461": {
+      "name": "Torla Mountain Save Room",
+      "symbol": "MAP_461",
+      "source_line": 466,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 461
+    },
+    "462": {
+      "name": "Great Tree Save Room Unused",
+      "symbol": "MAP_462",
+      "source_line": 467,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 462
+    },
+    "463": {
+      "name": "Coastal Cave Save Room",
+      "symbol": "MAP_463",
+      "source_line": 468,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 463
+    },
+    "464": {
+      "name": "Lake Shrine Inside Save Room Unused",
+      "symbol": "MAP_464",
+      "source_line": 469,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 464
+    },
+    "465": {
+      "name": "Bonaire's Dream Save Room",
+      "symbol": "MAP_465",
+      "source_line": 470,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 465
+    },
+    "466": {
+      "name": "Kline's Dream Save Room",
+      "symbol": "MAP_466",
+      "source_line": 471,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 466
+    },
+    "467": {
+      "name": "Giles's Dream Save Room",
+      "symbol": "MAP_467",
+      "source_line": 472,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 467
+    },
+    "468": {
+      "name": "Meia's Dream Save Room",
+      "symbol": "MAP_468",
+      "source_line": 473,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 468
+    },
+    "469": {
+      "name": "Elene's Dream Save Room",
+      "symbol": "MAP_469",
+      "source_line": 474,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 469
+    },
+    "470": {
+      "name": "Nestus's Dream Save Room",
+      "symbol": "MAP_470",
+      "source_line": 475,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 470
+    },
+    "471": {
+      "name": "Melzas Brain Boss Room",
+      "symbol": "MAP_471",
+      "source_line": 476,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 471
+    },
+    "472": {
+      "name": "Casino Slime Bash",
+      "symbol": "MAP_CASINO_SLIME_ARENA",
+      "source_line": 477,
+      "previous_name": "Casino Slime Arena",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 472
+    },
+    "473": {
+      "name": "Casino Slime Shooter",
+      "symbol": "MAP_CASINO_SHOOTING_RANGE",
+      "source_line": 478,
+      "previous_name": "Casino Shooting Range",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 473
+    },
+    "474": {
+      "name": "Casino Roulette",
+      "symbol": "MAP_CASINO_ROULETTE",
+      "source_line": 479,
+      "previous_name": "Casino Roulette",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 474
+    },
+    "475": {
+      "name": "Yustel Map",
+      "symbol": "MAP_475",
+      "source_line": 480,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 475
+    },
+    "476": {
+      "name": "Lars & Melzas Cutscene",
+      "symbol": "MAP_476",
+      "source_line": 481,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 476
+    },
+    "477": {
+      "name": "Death Screen",
+      "symbol": "MAP_477",
+      "source_line": 482,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 477
+    },
+    "478": {
+      "name": "Inoa Arrival Cutscene",
+      "symbol": "MAP_478",
+      "source_line": 483,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 478
+    },
+    "479": {
+      "name": "Lake Bridge Raised (outside)",
+      "symbol": "MAP_479",
+      "source_line": 484,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 479
+    },
+    "480": {
+      "name": "Lake Shrine Final Room",
+      "symbol": "MAP_480",
+      "source_line": 485,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 480
+    },
+    "481": {
+      "name": "Sybill Death Cutscene",
+      "symbol": "MAP_481",
+      "source_line": 486,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 481
+    },
+    "482": {
+      "name": "Sanctuary Basement Holy Sword",
+      "symbol": "MAP_482",
+      "source_line": 487,
+      "previous_name": "Unknown area",
+      "name_source": "user-map-names-2026-10-04.txt",
+      "source_entry_1based": 482
+    }
+  },
+  "user_source": {
+    "file": "data/user-map-names-2026-10-04.txt",
+    "sha256": "7b6fa28bd033559a5f29502d29f3133850dfcf9e371fc04d342b2bf88774e05f",
+    "mapping": "first entry is map1; matched multiple known anchors",
+    "status": "user-supplied names, not independently verified for every room",
+    "unmapped_tail": {
+      "483": "Unknown"
+    }
+  }
+}
