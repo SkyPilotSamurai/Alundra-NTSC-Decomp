@@ -1,0 +1,1956 @@
+[
+    {
+        "name": "Inoa: Chest in Lutas's house",
+        "nodeId": "inoa",
+        "address": "49969AE",
+        "vanillaItem": "Secret Pass"
+    },
+    {
+        "name": "Inoa: First item in Jess's blue chest",
+        "nodeId": "inoa_jess_chest",
+        "address": "3AEAB91",
+        "spriteAddress": "3AEAD72",
+        "vanillaItem": "Jess's Letter"
+    },
+    {
+        "name": "Inoa: Second item in Jess's blue chest",
+        "nodeId": "inoa_jess_chest",
+        "address": "3AEABD2",
+        "spriteAddress": "3AEAD86",
+        "vanillaItem": "Broken Armor"
+    },
+    {
+        "name": "Overworld C2: Chest in Olen's house",
+        "nodeId": "overworld_c2",
+        "address": "44591EE",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Overworld C2: First chest in top-left cave",
+        "nodeId": "overworld_c2",
+        "address": "21230B6",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Overworld C2: Chest in graveyard house basement",
+        "nodeId": "overworld_c2_graveyard_house",
+        "address": "44592A2",
+        "vanillaItem": "Nava's Charm"
+    },
+    {
+        "name": "Overworld C2: Chest in top-left cave behind springs",
+        "nodeId": "overworld_c2_cave_behind_spring",
+        "address": "21230CA",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Overworld D2: Middle chest",
+        "nodeId": "overworld_d2",
+        "address": "47E966",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Overworld D2: Cliff chest",
+        "nodeId": "overworld_d2_chest_cliff",
+        "address": "47E9DE",
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Overworld D2: Pier chest",
+        "nodeId": "overworld_d2",
+        "address": "47E9F2",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Overworld D2: Chest in cave next to Underground Waterway",
+        "nodeId": "overworld_d2",
+        "address": "12B0472",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Overworld D2: Left chest in watermill",
+        "nodeId": "overworld_d2_watermill",
+        "address": "564935E",
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Overworld D2: Middle chest in watermill",
+        "nodeId": "overworld_d2_watermill",
+        "address": "5649372",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Overworld D2: Right chest in watermill",
+        "nodeId": "overworld_d2_watermill",
+        "address": "5649386",
+        "vanillaItem": "Strength Tonic"
+    },
+    {
+        "name": "Overworld D2 (Cavern): Chest in left half of cavern",
+        "nodeId": "overworld_d2_cave",
+        "address": "21636B6",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Overworld D2 (Cavern): Chest falling after beating all slimes",
+        "nodeId": "overworld_d2_cave",
+        "address": "21636CA",
+        "vanillaItem": "Wonder Essence"
+    },
+    {
+        "name": "Overworld D2 (Cavern): Upper chest in right half of cavern",
+        "nodeId": "overworld_d2_cave_behind_merman",
+        "address": "216367A",
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Overworld D2 (Cavern): Lower chest in right half of cavern",
+        "nodeId": "overworld_d2_cave_behind_merman",
+        "address": "216368E",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Overworld D3: Elevated chest near bridge",
+        "nodeId": "overworld_d3_behind_spring_and_vines",
+        "address": "4C39EA",
+        "vanillaItem": "Magic Seed"
+    },
+    {
+        "name": "Overworld D3: Elevated chest near left border",
+        "nodeId": "overworld_d3_behind_spring",
+        "address": "4C3A76",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Overworld D3: Leftmost chest in 3-chest group",
+        "nodeId": "overworld_d3",
+        "address": "4C3B52",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Overworld D3: Middle chest in 3-chest group",
+        "nodeId": "overworld_d3",
+        "address": "4C3B3E",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Overworld D3: Rightmost chest in 3-chest group",
+        "nodeId": "overworld_d3",
+        "address": "4C3B66",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Overworld D3: 1st chest in 4-chest group",
+        "nodeId": "overworld_d3_behind_vines",
+        "address": "4C39FE",
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Overworld D3: 2nd chest in 4-chest group",
+        "nodeId": "overworld_d3_behind_vines",
+        "address": "4C3B02",
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Overworld D3: 3rd chest in 4-chest group",
+        "nodeId": "overworld_d3_behind_vines",
+        "address": "4C3B16",
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Overworld D3: Rightmost chest in 4-chest group",
+        "nodeId": "overworld_d3_behind_vines",
+        "address": "4C3B2A",
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Overworld D4: Elevated chest at top-left corner",
+        "nodeId": "overworld_d4",
+        "address": "50120A",
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Overworld D4: Second chest at top-left corner",
+        "nodeId": "overworld_d4",
+        "address": "5011F6",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Overworld D4: Chest to the left of the swamp",
+        "nodeId": "overworld_d4",
+        "address": "5011CE",
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Overworld D4: Chest on left swamp island",
+        "nodeId": "overworld_d4_behind_long_boots",
+        "address": "5010F2",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Overworld D4: Right swamp chest",
+        "nodeId": "overworld_d4",
+        "address": "5011E2",
+        "vanillaItem": "Strength Tonic"
+    },
+    {
+        "name": "Overworld C4: Left coast chest",
+        "nodeId": "overworld_c4_behind_long_boots",
+        "address": [
+            "3F8B96",
+            "584D6CA"
+        ],
+        "vanillaItem": "Magic Elixyr"
+    },
+    {
+        "name": "Overworld C4: Bottom-right cliff upper chest",
+        "nodeId": "overworld_c4",
+        "address": [
+            "3F8A6A",
+            "584D6A2"
+        ],
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Overworld C4: Bottom-right cliff lower chest",
+        "nodeId": "overworld_c4_right_cliff_behind_long_boots",
+        "address": [
+            "3F8A7E",
+            "584D68E"
+        ],
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Overworld C4: Chest inside forest near the right border",
+        "nodeId": "overworld_c4",
+        "address": [
+            "3F8BAA",
+            "584D6B6"
+        ],
+        "vanillaItem": "Strength Elixyr"
+    },
+    {
+        "name": "Overworld C4: Chest hidden among the trees near the middle",
+        "nodeId": "overworld_c4",
+        "address": [
+            "3F8BBE",
+            "584D706"
+        ],
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Overworld C4: Right coast chest behind spring",
+        "nodeId": "overworld_c4_behind_spring",
+        "address": [
+            "3F8A42",
+            "584D67A"
+        ],
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Overworld C1: Chest accessible from cave",
+        "nodeId": "overworld_c1_elevated_cavern",
+        "address": "327B86",
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Overworld C1: Chest on cliff accessible from right map",
+        "nodeId": "overworld_c1_cliff",
+        "address": "327D2A",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Overworld C1: Chest in right section",
+        "nodeId": "overworld_c1_right_sector",
+        "address": "327D8E",
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Overworld C1: Leftmost chest",
+        "nodeId": "overworld_c1",
+        "address": "327DA2",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Overworld C1: Left chest in two chests group",
+        "nodeId": "overworld_c1",
+        "address": "327D66",
+        "vanillaItem": "10 Gilder"
+    },
+    {
+        "name": "Overworld C1: Right chest in two chests group",
+        "nodeId": "overworld_c1",
+        "address": "327D7A",
+        "vanillaItem": "10 Gilder"
+    },
+    {
+        "name": "Overworld D1: Elevated chest in cliffs labyrinth",
+        "nodeId": "overworld_d1_cliff_maze",
+        "address": "43FB26",
+        "vanillaItem": "Strength Elixyr"
+    },
+    {
+        "name": "Overworld D1: Left chest in two chests group",
+        "nodeId": "overworld_d1",
+        "address": "43FBB2",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Overworld D1: Right chest in two chests group",
+        "nodeId": "overworld_d1",
+        "address": "43FBC6",
+        "vanillaItem": "Strength Tonic"
+    },
+    {
+        "name": "Ice Manor: Reward chest",
+        "nodeId": "ice_manor",
+        "address": "448A77A",
+        "vanillaItem": "Ice Wand"
+    },
+    {
+        "name": "Overworld B4: Chest hidden behind cabins on the pier",
+        "nodeId": "overworld_b4_behind_merman",
+        "address": "2E501E",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Overworld B4: Chest behind the tree stump",
+        "nodeId": "overworld_b4_behind_bomb",
+        "address": "2E5082",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Overworld B4: Chest accessible from left map",
+        "nodeId": "overworld_b4_behind_power_glove",
+        "address": "2E4F56",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Overworld B4: Chest in Nava's cabin",
+        "nodeId": "overworld_b4_nava_hut_behind_spring",
+        "address": "20EB10E",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Overworld B3: Elevated chest accessible from bottom map",
+        "nodeId": "overworld_b3_elevated",
+        "address": "29B6CE",
+        "vanillaItem": "Magic Seed"
+    },
+    {
+        "name": "Overworld B3: Chest behind vines",
+        "nodeId": "overworld_b3_behind_vines",
+        "address": "29B6E2",
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Overworld B3: King Snow reward for dying a specified amount of times",
+        "nodeId": "overworld_b3_behind_power_glove",
+        "address": "29B530",
+        "spriteAddress": "29B87A",
+        "vanillaItem": "Legend Sword"
+    },
+    {
+        "name": "Riverside Casino: 'Wheel of Fortune' chest",
+        "nodeId": "riverside_casino",
+        "address": "65FD322",
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Riverside Casino: 'Wheel of Fortune' second reward",
+        "nodeId": "riverside_casino",
+        "address": "65FD0C1",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Riverside Casino: 'Hit Your Mark' chest",
+        "nodeId": "riverside_casino_shooting_range",
+        "address": "65C7BD6",
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Riverside Casino: 'Hit Your Mark' second reward",
+        "nodeId": "riverside_casino_shooting_range",
+        "address": "65C7A80",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Riverside Casino: 'Slime Smash' chest",
+        "nodeId": "riverside_casino",
+        "address": "65979FA",
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Riverside Casino: 'Slime Smash' second reward",
+        "nodeId": "riverside_casino",
+        "address": "65978F9",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Overworld B2: Chest hidden behind musician's house",
+        "nodeId": "overworld_b2",
+        "address": "24646A",
+        "vanillaItem": "Strength Tonic"
+    },
+    {
+        "name": "Overworld B2: Chest near the pond",
+        "nodeId": "overworld_b2",
+        "address": "2463DE",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Overworld B2: First upper mines chest",
+        "nodeId": "overworld_b2_upper_mines",
+        "address": "208947A",
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Overworld B2: Chest falling after beating 50 slimes in upper mines",
+        "nodeId": "overworld_b2_upper_mines",
+        "address": "2089466",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Overworld B2: Chest in house near Coal Mine",
+        "nodeId": "overworld_b2_upper_mines",
+        "address": "20BACBA",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Overworld B2: Chest near Coal Mine back exit",
+        "nodeId": "overworld_b2_left",
+        "address": "246406",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Overworld A4: Chest behind Fire Manor",
+        "nodeId": "overworld_a4_behind_manor",
+        "address": "1C8012",
+        "vanillaItem": "Strength Elixyr"
+    },
+    {
+        "name": "Overworld A4: Chest in cave on the way to Fire Manor rewarded for beating circle of fishes",
+        "nodeId": "overworld_a4_manor_caves",
+        "address": "1FE97DA",
+        "vanillaItem": "Strength Elixyr"
+    },
+    {
+        "name": "Overworld A4: Chest in left branch of final cave before Fire Manor",
+        "nodeId": "overworld_a4_manor_caves_behind_flail",
+        "address": "1FE98DE",
+        "vanillaItem": "Magic Elixyr"
+    },
+    {
+        "name": "Fire Manor: Reward chest",
+        "nodeId": "fire_manor",
+        "address": "2021C8E",
+        "vanillaItem": "Fire Wand"
+    },
+    {
+        "name": "Overworld A3: Elevated chest at top-left corner",
+        "nodeId": "overworld_a3_left",
+        "address": "1866CE",
+        "vanillaItem": "Wonder Essence"
+    },
+    {
+        "name": "Overworld A3: Lower chest in left ruins",
+        "nodeId": "overworld_a3_left_behind_merman",
+        "address": "1866E2",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Overworld A3: Left chest in 3 chests group",
+        "nodeId": "overworld_a3_left_behind_power_glove",
+        "address": "186782",
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Overworld A3: Middle chest in 3 chests group",
+        "nodeId": "overworld_a3_left_behind_power_glove",
+        "address": "186796",
+        "vanillaItem": "Strength Elixyr"
+    },
+    {
+        "name": "Overworld A3: Right chest in 3 chests group",
+        "nodeId": "overworld_a3_left_behind_power_glove",
+        "address": "1867AA",
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Overworld A3: Left elevated chest in mimics cave",
+        "nodeId": "overworld_a3_mimics_cave",
+        "address": "538B372",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Overworld A3: Right elevated chest in mimics cave",
+        "nodeId": "overworld_a3_mimics_cave",
+        "address": "538B386",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Overworld A3: Left ground chest in mimics cave",
+        "nodeId": "overworld_a3_mimics_cave",
+        "address": "538B34A",
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Overworld A3: Right ground chest in mimics cave",
+        "nodeId": "overworld_a3_mimics_cave",
+        "address": "538B35E",
+        "vanillaItem": "Magic Elixyr"
+    },
+    {
+        "name": "Overworld A3: Lower chest in right ruins",
+        "nodeId": "overworld_a3_right",
+        "address": "186642",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Overworld A3: Chest behind the trees in right ruins",
+        "nodeId": "overworld_a3_right_behind_vines",
+        "address": "186732",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Overworld A3: Elevated chest in middle ruins",
+        "nodeId": "overworld_a3_right_behind_vines",
+        "address": "18670A",
+        "vanillaItem": "Water Book"
+    },
+    {
+        "name": "Overworld A2: Chest dropped by Murggs",
+        "nodeId": "overworld_a2",
+        "address": "13F8FE",
+        "vanillaItem": "Willow Bow"
+    },
+    {
+        "name": "Overworld A2: Chest in circular cave behind vines",
+        "nodeId": "overworld_a2_behind_vines",
+        "address": "53CAFEA",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Overworld A2: Left chest in bridge cave with 3 chests",
+        "nodeId": "overworld_a2_behind_vines_and_bomb",
+        "address": "53CB1B6",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Overworld A2: Middle chest in bridge cave with 3 chests",
+        "nodeId": "overworld_a2_behind_vines_and_bomb",
+        "address": "53CB1A2",
+        "vanillaItem": "Strength Elixyr"
+    },
+    {
+        "name": "Overworld A2: Right chest in bridge cave with 3 chests",
+        "nodeId": "overworld_a2_behind_vines_and_bomb",
+        "address": "53CB1CA",
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Overworld A2: Chest near spikeball",
+        "nodeId": "overworld_a2_behind_vines_and_bomb",
+        "address": "13F872",
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Overworld A2: Upper chest",
+        "nodeId": "overworld_a2_behind_vines_and_bomb",
+        "address": "13FA66",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Overworld A2: Lower chest among trees",
+        "nodeId": "overworld_a2_behind_vines_and_bomb",
+        "address": "13F7E6",
+        "vanillaItem": "Strength Tonic"
+    },
+    {
+        "name": "Overworld A2: Upper chest among trees",
+        "nodeId": "overworld_a2_behind_vines_and_bomb",
+        "address": "13F7D2",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Overworld A2: Chest after Stone Golem",
+        "nodeId": "overworld_a2_behind_vines_and_bomb",
+        "address": "56E3FE6",
+        "vanillaItem": "Wonder Essence"
+    },
+    {
+        "name": "Overworld B1: Chest on isolated island",
+        "nodeId": "overworld_b1_island",
+        "address": [
+            "206F96",
+            "670C8FE"
+        ],
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Overworld E1: Chest near bottom right corner",
+        "nodeId": "overworld_e1",
+        "address": [
+            "547E02",
+            "5F3CE0E"
+        ],
+        "vanillaItem": "Strength Tonic"
+    },
+    {
+        "name": "Overworld E1: Chest near top right corner",
+        "nodeId": "overworld_e1_behind_spring",
+        "address": [
+            "54805A",
+            "5F3D066"
+        ],
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Overworld E2: Top chest",
+        "nodeId": "overworld_e2_behind_long_boots",
+        "address": [
+            "58DE46",
+            "61F4656"
+        ],
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Overworld E2: Right chest",
+        "nodeId": "overworld_e2_behind_long_boots",
+        "address": [
+            "58DE96",
+            "61F46A6"
+        ],
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Overworld E2: Bottom chest",
+        "nodeId": "overworld_e2_behind_long_boots",
+        "address": [
+            "58DE82",
+            "61F4692"
+        ],
+        "vanillaItem": "Strength Elixyr"
+    },
+    {
+        "name": "Overworld E2: First chest in cave",
+        "nodeId": "overworld_e2_behind_long_boots",
+        "address": "5670C5A",
+        "vanillaItem": "Sluice Key"
+    },
+    {
+        "name": "Overworld E2: Chest in cave behind burning pillars",
+        "nodeId": "overworld_e2_cave_behind_ice_wand",
+        "address": "5670C46",
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Overworld E3: Top-right chest in Sand Cape locked ruins",
+        "nodeId": "overworld_e3_behind_cape_or_boots",
+        "address": "5CA6C2",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Overworld E3: Left chest in desert",
+        "nodeId": "overworld_e3",
+        "address": "5CA762",
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Overworld E3: Chest on island outside desert",
+        "nodeId": "overworld_e3_bottom_left_island",
+        "address": "5CA79E",
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Overworld E3: Chest on middle ruins",
+        "nodeId": "overworld_e3",
+        "address": "5CA852",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Overworld E3: Chest in cave",
+        "nodeId": "overworld_e3_cape_cave",
+        "address": "575536E",
+        "vanillaItem": "Sand Cape"
+    },
+    {
+        "name": "Overworld E4: Top-left chest hidden in grass",
+        "nodeId": "overworld_e4_behind_merman",
+        "address": "60BA0E",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Overworld E4: Chest at mid-level near waterfalls",
+        "nodeId": "overworld_e4_behind_merman",
+        "address": "60BA4A",
+        "vanillaItem": "Strength Tonic"
+    },
+    {
+        "name": "Overworld E4: Chest on left cliff",
+        "nodeId": "overworld_e4",
+        "address": "60BAAE",
+        "vanillaItem": "Wonder Essence"
+    },
+    {
+        "name": "Overworld E4: Chest in left rocky alcove",
+        "nodeId": "overworld_e4",
+        "address": "60BAC2",
+        "vanillaItem": "Magic Elixyr"
+    },
+    {
+        "name": "Overworld E4: Left chest in 3 chests group",
+        "nodeId": "overworld_e4",
+        "address": "60BAD6",
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Overworld E4: Middle chest in 3 chests group",
+        "nodeId": "overworld_e4",
+        "address": "60BAEA",
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Overworld E4: Right chest in 3 chests group",
+        "nodeId": "overworld_e4",
+        "address": "60BAFE",
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Overworld E4: Chest between two cliffs",
+        "nodeId": "overworld_e4",
+        "address": "60BB12",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Overworld E4: Chest on right cliff",
+        "nodeId": "overworld_e4",
+        "address": "60BA5E",
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Overworld E4: Lower chest in the well",
+        "nodeId": "overworld_e4_well",
+        "address": [
+            "45FC646",
+            "56C00DE"
+        ],
+        "vanillaItem": "Strength Elixyr"
+    },
+    {
+        "name": "Overworld E4: Upper chest in the well",
+        "nodeId": "overworld_e4_well_behind_vines",
+        "address": [
+            "45FC66E",
+            "56C00CA"
+        ],
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Overworld B2: First chest in cave to lake",
+        "nodeId": "overworld_b2_cave_to_lake",
+        "address": "205504E",
+        "vanillaItem": "10 Gilder"
+    },
+    {
+        "name": "Overworld B2: Chest behind deep water in cave to lake",
+        "nodeId": "overworld_b2_cave_to_lake_behind_merman",
+        "address": "2055062",
+        "vanillaItem": "Wonder Essence"
+    },
+    {
+        "name": "Tarn's Manor: Falling chest in dining room after slaying Murggs",
+        "nodeId": "tarn_manor",
+        "address": "1B49342",
+        "vanillaItem": "Strength Tonic"
+    },
+    {
+        "name": "Tarn's Manor: Upstairs right chest",
+        "nodeId": "tarn_manor",
+        "address": "1B4927A",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Tarn's Manor: First underground chest",
+        "nodeId": "tarn_manor",
+        "address": "1B78CEA",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Tarn's Manor: Second underground chest",
+        "nodeId": "tarn_manor",
+        "address": "1B78E8E",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Tarn's Manor: Third underground chest",
+        "nodeId": "tarn_manor",
+        "address": "1B78E2A",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Tarn's Manor: Chest in watery hallway with spikeball",
+        "nodeId": "tarn_manor",
+        "address": "1BA5B96",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Tarn's Manor: Chest in right room coming back from the underground",
+        "nodeId": "tarn_manor",
+        "address": "1B49266",
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Tarn's Manor: Left chest in final room",
+        "nodeId": "tarn_manor",
+        "address": "1BA5DDA",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Tarn's Manor: Right chest in final room",
+        "nodeId": "tarn_manor",
+        "address": "1BA5DEE",
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Tarn's Manor: Item on table in final room",
+        "nodeId": "tarn_manor",
+        "spriteAddress": "1BA5D06",
+        "vanillaItem": "Book of Elna",
+        "forbidPreciousItems": true
+    },
+    {
+        "name": "Coal Mine: Chest #1 in room where Lyman dies",
+        "nodeId": "coal_mine",
+        "address": "EF34BE",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Coal Mine: Chest #2 in room where Lyman dies",
+        "nodeId": "coal_mine",
+        "address": "EF34D2",
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Coal Mine: Chest #3 in room where Lyman dies",
+        "nodeId": "coal_mine",
+        "address": "EF34E6",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Coal Mine: Chest #4 in room where Lyman dies",
+        "nodeId": "coal_mine",
+        "address": "EF34FA",
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Coal Mine: Elevated chest in room with many minecarts",
+        "nodeId": "coal_mine",
+        "address": "F3BCC2",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Coal Mine: Lower chest in room with many minecarts",
+        "nodeId": "coal_mine",
+        "address": "F3BCD6",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Coal Mine: Elevated chest in last sector",
+        "nodeId": "coal_mine",
+        "address": "F7472A",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Coal Mine: Chest on wooden structure in last minecart starting room",
+        "nodeId": "coal_mine",
+        "address": "10AE572",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Coal Mine: Reward chest for beating the Murggs",
+        "nodeId": "coal_mine",
+        "address": "48DBB66",
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Fairy Pond: First chest in spikeballs pit",
+        "nodeId": "fairy_pond",
+        "address": "246A506",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Fairy Pond: Second chest in spikeballs pit",
+        "nodeId": "fairy_pond",
+        "address": "246A4DE",
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Fairy Pond: Chest in bubble jumping room",
+        "nodeId": "fairy_pond",
+        "address": "242F4F6",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Fairy Pond: Top chest in second chained spikeballs room",
+        "nodeId": "fairy_pond",
+        "address": "246A362",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Fairy Pond: Middle chest in second chained spikeballs room",
+        "nodeId": "fairy_pond",
+        "address": "246A376",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Fairy Pond: Bottom chest in second chained spikeballs room",
+        "nodeId": "fairy_pond",
+        "address": "246A38A",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Fairy Pond: Reward chest",
+        "nodeId": "fairy_pond",
+        "address": "24A57C6",
+        "vanillaItem": "Fiend Blade"
+    },
+    {
+        "name": "Ancient Shrine: Chest in left aisle of main entrance room",
+        "nodeId": "ancient_shrine",
+        "address": "769FFE",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Ancient Shrine: Chest in right aisle of main entrance room",
+        "nodeId": "ancient_shrine",
+        "address": "76A012",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Ancient Shrine: Chest in room with sandcape holes and jars",
+        "nodeId": "ancient_shrine_behind_cape",
+        "address": "89ED1E",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Ancient Shrine: Chest near left exterior statue",
+        "nodeId": "ancient_shrine_behind_cape",
+        "address": "866AD2",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Ancient Shrine: Left reward chest after beating boss",
+        "nodeId": "ancient_shrine_behind_cape",
+        "address": "82F0DE",
+        "vanillaItem": "Sword"
+    },
+    {
+        "name": "Ancient Shrine: Middle reward chest after beating boss",
+        "nodeId": "ancient_shrine_behind_cape",
+        "address": "82F08E",
+        "vanillaItem": "Long Boots"
+    },
+    {
+        "name": "Ancient Shrine: Right reward chest after beating boss",
+        "nodeId": "ancient_shrine_behind_cape",
+        "address": "82F0F2",
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Coastal Cave: Chest hidden behind bricks near entrance",
+        "nodeId": "coastal_cave",
+        "address": "10EDA52",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Coastal Cave: Chest in 'spiral' room",
+        "nodeId": "coastal_cave",
+        "address": "10EDB56",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Coastal Cave: Chest reachable by throwing wood log on water near first key chest",
+        "nodeId": "coastal_cave_behind_merman",
+        "address": "112683E",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Coastal Cave: Chest on floating wooden structure in 3-buttons hub",
+        "nodeId": "coastal_cave_behind_merman",
+        "address": "1242F92",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Coastal Cave: Chest hidden below bricks in 3-buttons seal room",
+        "nodeId": "coastal_cave",
+        "address": "1243596",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Coastal Cave: Chest in buttons arena",
+        "nodeId": "coastal_cave",
+        "address": "120682A",
+        "vanillaItem": "Merman Boots"
+    },
+    {
+        "name": "Coastal Cave: Chest in room revealed by hitting lever",
+        "nodeId": "coastal_cave_behind_merman",
+        "address": "115DD9A",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Coastal Cave: First chest in room with checkpoint",
+        "nodeId": "coastal_cave_behind_merman",
+        "address": "12068F2",
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Coastal Cave: Second chest in room with checkpoint",
+        "nodeId": "coastal_cave_behind_merman",
+        "address": "1206852",
+        "vanillaItem": "Strength Elixyr"
+    },
+    {
+        "name": "Coastal Cave: Chest on small island in room with elevated key chest",
+        "nodeId": "coastal_cave_behind_merman",
+        "address": "1192396",
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Coastal Cave: Chest reachable by throwing wood log on water near last key chest",
+        "nodeId": "coastal_cave_behind_merman",
+        "address": "11CE4B6",
+        "vanillaItem": "Wonder Essence"
+    },
+    {
+        "name": "Coastal Cave: Left boss reward chest",
+        "nodeId": "coastal_cave_behind_merman",
+        "address": "127B166",
+        "vanillaItem": "Water Scroll"
+    },
+    {
+        "name": "Tower of the Great Tree (basement): Bottom chest",
+        "nodeId": "great_tree_tower",
+        "address": "2363162",
+        "vanillaItem": "Wonder Essence"
+    },
+    {
+        "name": "Tower of the Great Tree (basement): Top-left chest",
+        "nodeId": "great_tree_tower",
+        "address": "2363176",
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Tower of the Great Tree (basement): Left chest among the two top chests",
+        "nodeId": "great_tree_tower",
+        "address": "236318A",
+        "vanillaItem": "Strength Tonic"
+    },
+    {
+        "name": "Tower of the Great Tree (basement): Right chest among the two top chests",
+        "nodeId": "great_tree_tower",
+        "address": "236319E",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Tower of the Great Tree (ground): Chest in arena",
+        "nodeId": "great_tree_tower",
+        "address": "21CE702",
+        "vanillaItem": "1 Gilder"
+    },
+    {
+        "name": "Tower of the Great Tree (ground): Chest near left aisle entrance",
+        "nodeId": "great_tree_tower",
+        "address": "21CE586",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Tower of the Great Tree (ground): Chest near right aisle entrance",
+        "nodeId": "great_tree_tower",
+        "address": "21CE496",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Tower of the Great Tree (1F): Middle chest",
+        "nodeId": "great_tree_tower",
+        "address": "220BAAE",
+        "vanillaItem": "Wonder Essence"
+    },
+    {
+        "name": "Tower of the Great Tree (1F): Left chest in top-right room",
+        "nodeId": "great_tree_tower",
+        "address": "220BB3A",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Tower of the Great Tree (1F): Right chest in top-right room",
+        "nodeId": "great_tree_tower",
+        "address": "220BAEA",
+        "vanillaItem": "Strength Tonic"
+    },
+    {
+        "name": "Tower of the Great Tree (2F): Left chest in top row of storage room",
+        "nodeId": "great_tree_tower",
+        "address": "224388A",
+        "vanillaItem": "10 Gilder"
+    },
+    {
+        "name": "Tower of the Great Tree (2F): Right chest in top row of storage room",
+        "nodeId": "great_tree_tower",
+        "address": "224389E",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Tower of the Great Tree (2F): Left chest in bottom row of storage room",
+        "nodeId": "great_tree_tower",
+        "address": "22438B2",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Tower of the Great Tree (2F): Right chest in bottom row of storage room",
+        "nodeId": "great_tree_tower",
+        "address": "22436BE",
+        "vanillaItem": "Strength Tonic"
+    },
+    {
+        "name": "Tower of the Great Tree (2F): Middle chest",
+        "nodeId": "great_tree_tower",
+        "address": "2243812",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Tower of the Great Tree (2F): Top chest in bottom-right room",
+        "nodeId": "great_tree_tower",
+        "address": "22437D6",
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Tower of the Great Tree (2F): Left chest in bottom-right room",
+        "nodeId": "great_tree_tower",
+        "address": "22437EA",
+        "vanillaItem": "1 Gilder"
+    },
+    {
+        "name": "Tower of the Great Tree (2F): Right chest in bottom-right room",
+        "nodeId": "great_tree_tower",
+        "address": "22437FE",
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Tower of the Great Tree (3F): Left chest in top-right room",
+        "nodeId": "great_tree_tower",
+        "address": "227B1B2",
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Tower of the Great Tree (3F): Right chest in top-right room",
+        "nodeId": "great_tree_tower",
+        "address": "227B1C6",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Tower of the Great Tree (4F): Chest in fireball launcher room",
+        "nodeId": "great_tree_tower",
+        "address": "22B23DA",
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Tower of the Great Tree (Summit): Left boss reward chest",
+        "nodeId": "great_tree_tower",
+        "address": "22EAE3E",
+        "vanillaItem": "Agate Crest"
+    },
+    {
+        "name": "Tower of the Great Tree (Summit): Right boss reward chest",
+        "nodeId": "great_tree_tower",
+        "address": "22EAE52",
+        "vanillaItem": "Garnet Crest"
+    },
+    {
+        "name": "Tower of the Great Tree (Branches): Left chest on great tree branches",
+        "nodeId": "great_tree_tower",
+        "address": "1064EE",
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Tower of the Great Tree (Branches): Right chest on great tree branches",
+        "nodeId": "great_tree_tower",
+        "address": "1064DA",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Underground Waterway: First chest in entrance room",
+        "nodeId": "underground_waterway",
+        "address": "12B0486",
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Underground Waterway: Second chest in entrance room",
+        "nodeId": "underground_waterway",
+        "address": "12B049A",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Underground Waterway: Chest on pillar accessible by falling from engine room",
+        "nodeId": "underground_waterway",
+        "address": "12DFB96",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Underground Waterway: Chest in room behind waterfall",
+        "nodeId": "underground_waterway",
+        "address": [
+            "1318B76",
+            "1318BC6"
+        ],
+        "vanillaItem": "Wonder Essence"
+    },
+    {
+        "name": "Underground Waterway: Chest in last room top-right corner",
+        "nodeId": "underground_waterway",
+        "address": [
+            "1318BEE",
+            "1318C02"
+        ],
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Lars Crypt: Left chest after bridge",
+        "nodeId": "lars_crypt",
+        "address": "63ADD6",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Lars Crypt: Right chest after bridge",
+        "nodeId": "lars_crypt",
+        "address": "63AE4E",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Lars Crypt: Chest in zombies' pit",
+        "nodeId": "lars_crypt",
+        "address": "6797B6",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Lars Crypt: Corner chest after climbing stairs from zombies' pit",
+        "nodeId": "lars_crypt",
+        "address": "67964E",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Lars Crypt: Chest in top-left corner of second pit",
+        "nodeId": "lars_crypt",
+        "address": "6F1366",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Lars Crypt: Chest at the bottom of moving platforms vertical room",
+        "nodeId": "lars_crypt",
+        "address": "6F12DA",
+        "vanillaItem": "Strength Tonic"
+    },
+    {
+        "name": "Lars Crypt: Upper boss reward chest",
+        "nodeId": "lars_crypt",
+        "address": "72E61A",
+        "vanillaItem": "Magic Seed"
+    },
+    {
+        "name": "Lars Crypt: Middle boss reward chest",
+        "nodeId": "lars_crypt",
+        "address": "72E62E",
+        "vanillaItem": "Earth Scroll"
+    },
+    {
+        "name": "Lars Crypt: Lower boss reward chest",
+        "nodeId": "lars_crypt",
+        "address": "72E642",
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Lars Crypt: Boss reward chest isolated to the left",
+        "nodeId": "lars_crypt",
+        "address": "72E656",
+        "vanillaItem": "Ruby Crest"
+    },
+    {
+        "name": "Magyscar: Left chest in watery triple chest room",
+        "nodeId": "magyscar",
+        "address": "151BA8A",
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Magyscar: Top-right chest in watery triple chest room",
+        "nodeId": "magyscar",
+        "address": "151BA76",
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Magyscar: Bottom-right chest in watery triple chest room",
+        "nodeId": "magyscar",
+        "address": "151BDFA",
+        "vanillaItem": "Strength Tonic"
+    },
+    {
+        "name": "Magyscar: Chest behind vines in switchable platforms room",
+        "nodeId": "magyscar_behind_bomb_or_fire_wand",
+        "address": "14E252A",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Magyscar: Chest in room with pillars and smashing spikeballs",
+        "nodeId": "magyscar_behind_bomb_or_fire_wand",
+        "address": "14E249E",
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Magyscar: Elevated chest in small room with spinning spikeballs",
+        "nodeId": "magyscar_behind_bomb_or_fire_wand",
+        "address": "151BA9E",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Magyscar: Chest between teleporters",
+        "nodeId": "magyscar_behind_bomb_or_fire_wand",
+        "address": "155514A",
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Magyscar: Upper chest in room with elevator controlled by switch",
+        "nodeId": "magyscar_behind_bomb_or_fire_wand",
+        "address": "15551D6",
+        "vanillaItem": "Magic Elixyr"
+    },
+    {
+        "name": "Magyscar: Lower hidden chest in room with elevator controlled by switch",
+        "nodeId": "magyscar_behind_bomb_or_fire_wand",
+        "address": "1555046",
+        "vanillaItem": "Strength Tonic"
+    },
+    {
+        "name": "Magyscar: Chest behind vines in room with switch giving torch and lowering platforms",
+        "nodeId": "magyscar_behind_bomb_or_fire_wand",
+        "address": "158F052",
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Magyscar: First chest in vines hallway after room with 4 magic switches",
+        "nodeId": "magyscar_behind_bomb",
+        "address": "1627B7E",
+        "vanillaItem": "Magic Elixyr"
+    },
+    {
+        "name": "Magyscar: Second chest in vines hallway after room with 4 magic switches",
+        "nodeId": "magyscar_behind_bomb",
+        "address": "1627B92",
+        "vanillaItem": "Wonder Essence"
+    },
+    {
+        "name": "Magyscar: Third chest in vines hallway after room with 4 magic switches",
+        "nodeId": "magyscar_behind_bomb",
+        "address": "1627BA6",
+        "vanillaItem": "Strength Elixyr"
+    },
+    {
+        "name": "Magyscar: Right boss reward chest",
+        "nodeId": "magyscar_behind_bomb",
+        "address": "1683DF2",
+        "vanillaItem": "Wind Scroll"
+    },
+
+    {
+        "name": "Reptile Lair: Chest in side cavern accessible from overworld",
+        "nodeId": "reptile_lair_side_cavern",
+        "address": "1482332",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Reptile Lair: Lower chest in main flooded room",
+        "nodeId": "reptile_lair",
+        "address": [
+            "134C5A6",
+            "134C9CA"
+        ],
+        "vanillaItem": "Strength Tonic"
+    },
+    {
+        "name": "Reptile Lair: Left elevated chest in main flooded room",
+        "nodeId": "reptile_lair",
+        "address": [
+            "134C5BA",
+            "134C9DE"
+        ],
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Reptile Lair: Chest on wooden structure to the right of main flooded room",
+        "nodeId": "reptile_lair_behind_flail",
+        "address": [
+            "134C5CE",
+            "134C9F2"
+        ],
+        "vanillaItem": "Strength Tonic"
+    },
+    {
+        "name": "Reptile Lair: Chest in room with 3 respawning lizard statues",
+        "nodeId": "reptile_lair_behind_flail",
+        "address": "134C79A",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Reptile Lair: Chest next to stairs after leaving main flooded room using right stairs",
+        "nodeId": "reptile_lair_behind_flail",
+        "address": "5881A86",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Reptile Lair: Chest next to stairs after moving fireballs room",
+        "nodeId": "reptile_lair_behind_flail",
+        "address": [
+            "1403696",
+            "58F2696"
+        ],
+        "vanillaItem": "Strength Tonic"
+    },
+    {
+        "name": "Reptile Lair: Chest in room with two wooden bridges",
+        "nodeId": "reptile_lair_behind_flail",
+        "address": [
+            "1403786",
+            "58F2786"
+        ],
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Reptile Lair: Chest in room with vibrating spikeballs",
+        "nodeId": "reptile_lair_behind_flail",
+        "address": [
+            "1403BAA",
+            "58F2BAA"
+        ],
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Reptile Lair: Left chest in boss reward room",
+        "nodeId": "reptile_lair_behind_flail",
+        "address": [
+            "14430D2",
+            "59320D2"
+        ],
+        "vanillaItem": "Sapphire Crest"
+    },
+    {
+        "name": "Reptile Lair: Right chest in boss reward room",
+        "nodeId": "reptile_lair_behind_flail",
+        "address": [
+            "14430E6",
+            "59320E6"
+        ],
+        "vanillaItem": "Fire Scroll"
+    },
+    {
+        "name": "Torla Mountain: Chest bathing in lava",
+        "nodeId": "torla_mountain",
+        "address": "6034C66",
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Torla Mountain: Chest in stompable flamethrowers hallway",
+        "nodeId": "torla_mountain",
+        "address": "6034D7E",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Torla Mountain: Chest in top-right corner of room with phoenixes and flamethrowers",
+        "nodeId": "torla_mountain",
+        "address": "60723FE",
+        "vanillaItem": "Wonder Essence"
+    },
+    {
+        "name": "Torla Mountain: Right chest in checkpoint teleporter room",
+        "nodeId": "torla_mountain",
+        "address": "60B049E",
+        "vanillaItem": "Charm Boots"
+    },
+    {
+        "name": "Torla Mountain: Chest in pit below wooden bridge",
+        "nodeId": "torla_mountain_behind_spring",
+        "address": "6132702",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Torla Mountain: Chest before boss",
+        "nodeId": "torla_mountain_behind_charm_boots",
+        "address": "6170092",
+        "vanillaItem": "Fire Book"
+    },
+    {
+        "name": "Torla Mountain: Boss reward chest",
+        "nodeId": "torla_mountain_behind_charm_boots",
+        "address": "4817B36",
+        "vanillaItem": "Emerald Crest"
+    },
+    {
+        "name": "Nirude's Lair: Chest hidden in passageway behind statue, accessible from outside",
+        "nodeId": "nirude_lair",
+        "address": "5C29D26",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Nirude's Lair: Chest on left side of cavern hallway with statues",
+        "nodeId": "nirude_lair",
+        "address": "5BF18B6",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Nirude's Lair: Right elevated chest in entrance room",
+        "nodeId": "nirude_lair",
+        "address": "5BF1852",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Overworld E1: Left chest in two chests group",
+        "nodeId": "nirude_lair",
+        "address": [
+            "5480AA",
+            "5F3D0B6"
+        ],
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Overworld E1: Right chest in two chests group",
+        "nodeId": "nirude_lair",
+        "address": [
+            "5480BE",
+            "5F3D0CA"
+        ],
+        "vanillaItem": "30 Gilder"
+    },
+    {
+        "name": "Nirude's Lair: Chest in room with spikes and moving platforms",
+        "nodeId": "nirude_lair",
+        "address": "5B833CE",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Overworld E1: Chest on cliff near top-left corner",
+        "nodeId": "nirude_lair",
+        "address": [
+            "548096",
+            "5F3D0A2"
+        ],
+        "vanillaItem": "Earth Book"
+    },
+    {
+        "name": "Nirude's Lair: Chest hidden behind moving statue",
+        "nodeId": "nirude_lair",
+        "address": "5B4BAFE",
+        "vanillaItem": "Strength Elixyr"
+    },
+    {
+        "name": "Nirude's Lair: Upper falling chest in elevated arena room",
+        "nodeId": "nirude_lair",
+        "address": "5B4BAEA",
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Nirude's Lair: Lower falling chest in elevated arena room",
+        "nodeId": "nirude_lair",
+        "address": "5B4BAD6",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Nirude's Lair: Boss reward chest",
+        "nodeId": "nirude_lair",
+        "address": [
+            "54791D",
+            "547FE2",
+            "5F3CFEE",
+            "5F3C929"
+        ],
+        "spriteAddress": [
+            "547FEA",
+            "5F3CFF6"
+        ],
+        "vanillaItem": "Topaz Crest"
+    },
+    {
+        "name": "Nirude's Lair: Boss reward item given by Miming",
+        "nodeId": "nirude_lair",
+        "address": [
+            "547936",
+            "5F3C942"
+        ],
+        "spriteAddress": [
+            "5480C6",
+            "5F3D0D2"
+        ],
+        "vanillaItem": "Aqua Cape"
+    },
+    {
+        "name": "Nava's Keep: Chest buried in ground, raising after beating enemies",
+        "nodeId": "nava_keep",
+        "address": "5CD9C82",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Nava's Keep: Chest in room with hidden paths",
+        "nodeId": "nava_keep",
+        "address": "5D14FEE",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Nava's Keep: Elevated chest on Nava's island",
+        "nodeId": "nava_keep",
+        "address": "5D47406",
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Nava's Keep: Chest left to the house on Nava's island",
+        "nodeId": "nava_keep",
+        "address": "5D4742E",
+        "vanillaItem": "Wind Book"
+    },
+    {
+        "name": "Nava's Keep: Falling item revealed using Zolist's Stone",
+        "nodeId": "nava_keep",
+        "address": "5D73782",
+        "spriteAddress": "5D73962",
+        "vanillaItem": "Diamond Crest"
+    },
+    {
+        "name": "Merrick's Shop: Item traded for 15 Gilded Falcons",
+        "nodeId": "merrick_shop_1",
+        "address": "1EBF67C",
+        "spriteAddress": [
+            "1EBF88E",
+            "1EBF92E"
+        ],
+        "merrickItemAddress": "7CE7C",
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Merrick's Shop: Item traded for 20 Gilded Falcons",
+        "nodeId": "merrick_shop_2",
+        "address": "1EBF6B4",
+        "spriteAddress": [
+            "1EBF8A2",
+            "1EBF942",
+            "1EBF9E2"
+        ],
+        "merrickItemAddress": "7CE80",
+        "vanillaItem": "Olga's Ring"
+    },
+    {
+        "name": "Merrick's Shop: Item traded for 25 Gilded Falcons",
+        "nodeId": "merrick_shop_3",
+        "address": "1EBF774",
+        "spriteAddress": [
+            "1EBF8B6",
+            "1EBF956"
+        ],
+        "merrickItemAddress": "7CE84",
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Merrick's Shop: Item traded for 30 Gilded Falcons",
+        "nodeId": "merrick_shop_4",
+        "address": "1EBF6E4",
+        "spriteAddress": [
+            "1EBF8CA",
+            "1EBF96A",
+            "1EBF9F6"
+        ],
+        "merrickItemAddress": "7CE88",
+        "vanillaItem": "Silver Armlet"
+    },
+    {
+        "name": "Merrick's Shop: Item traded for 35 Gilded Falcons",
+        "nodeId": "merrick_shop_5",
+        "address": "1EBF7AC",
+        "spriteAddress": [
+            "1EBF8DE",
+            "1EBF97E"
+        ],
+        "merrickItemAddress": "7CE8C",
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Merrick's Shop: Item traded for 40 Gilded Falcons",
+        "nodeId": "merrick_shop_6",
+        "address": "1EBF714",
+        "spriteAddress": [
+            "1EBF8F2",
+            "1EBF992",
+            "1EBFA0A"
+        ],
+        "merrickItemAddress": "7CE90",
+        "vanillaItem": "Recovery Ring"
+    },
+    {
+        "name": "Merrick's Shop: Item traded for 45 Gilded Falcons",
+        "nodeId": "merrick_shop_7",
+        "address": "1EBF7E4",
+        "spriteAddress": [
+            "1EBF906",
+            "1EBF9A6"
+        ],
+        "merrickItemAddress": "7CE94",
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Merrick's Shop: Item traded for 50 Gilded Falcons",
+        "nodeId": "merrick_shop_8",
+        "address": "1EBF742",
+        "spriteAddress": "1EBF9BA",
+        "merrickItemAddress": "7CE98",
+        "vanillaItem": "Spirit Wand"
+    },
+    {
+        "name": "Lurvy's Shop: Item #1",
+        "nodeId": "lurvy_shop_repeatable",
+        "address": "56BF6FF",
+        "spriteAddress": "56BFFE2",
+        "priceAddress": [
+            "56BF6EB",
+            "56BF712"
+        ],
+        "vanillaItem": "Herbs",
+        "forbidPreciousItems": true
+    },
+    {
+        "name": "Lurvy's Shop: Item #2",
+        "nodeId": "lurvy_shop_repeatable",
+        "address": "56BF7B3",
+        "spriteAddress": "56BFFF6",
+        "priceAddress": [
+            "56BF79F",
+            "56BF7C6"
+        ],
+        "vanillaItem": "Strength Tonic",
+        "forbidPreciousItems": true
+    },
+    {
+        "name": "Lurvy's Shop: Item #3",
+        "nodeId": "lurvy_shop_repeatable",
+        "address": "56BF867",
+        "spriteAddress": "56C000A",
+        "priceAddress": [
+            "56BF853",
+            "56BF87A"
+        ],
+        "vanillaItem": "Strength Elixyr",
+        "forbidPreciousItems": true
+    },
+    {
+        "name": "Lurvy's Shop: Item #4",
+        "nodeId": "lurvy_shop_repeatable",
+        "address": "56BF91B",
+        "spriteAddress": "56C001E",
+        "priceAddress": [
+            "56BF907",
+            "56BF92E"
+        ],
+        "vanillaItem": "Magic Elixyr",
+        "forbidPreciousItems": true
+    },
+    {
+        "name": "Lurvy's Shop: Item #5",
+        "nodeId": "lurvy_shop_unique",
+        "address": "56BF9DE",
+        "spriteAddress": "56C0032",
+        "priceAddress": [
+
+            "56BF9CA",
+            "56BF9F1"
+        ],
+        "vanillaItem": "Leather Armor"
+    },
+    {
+        "name": "Lurvy's Shop: Item #5 replacement when bought once",
+        "nodeId": "lurvy_shop_unique",
+        "address": "56BFACF",
+        "spriteAddress": "56C0046",
+        "priceAddress": [
+            "56BFAA6",
+            "56BFABB"
+        ],
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Lurvy's Shop: Item #5 replacement when bought twice",
+        "nodeId": "lurvy_shop_repeatable",
+        "address": "56BFB8A",
+        "spriteAddress": "56C005A",
+        "priceAddress": [
+            "56BFB76",
+            "56BFB9D"
+        ],
+        "vanillaItem": "Wonder Essence",
+        "forbidPreciousItems": true
+    },
+    {
+        "name": "Lurvy's Shop: Item obtained after repairing Broken Armor",
+        "nodeId": "lurvy_shop_repair",
+        "address": "56BFF51",
+        "spriteAddress": "56C0096",
+        "vanillaItem": "Ancient Armor"
+    },
+    {
+        "name": "Naomi's Shop: Item #1",
+        "nodeId": "naomi_shop",
+        "address": "3A670B3",
+        "spriteAddress": "3A677FA",
+        "priceAddress": [
+            "3A6709F",
+            "3A670C6"
+        ],
+        "vanillaItem": "Herbs",
+        "forbidPreciousItems": true
+    },
+    {
+        "name": "Naomi's Shop: Item #2",
+        "nodeId": "naomi_shop",
+        "address": "3A67133",
+        "spriteAddress": "3A6780E",
+        "priceAddress": [
+            "3A6711F",
+            "3A67146"
+        ],
+        "vanillaItem": "Strength Tonic",
+        "forbidPreciousItems": true
+    },
+    {
+        "name": "Naomi's Shop: Item #3",
+        "nodeId": "naomi_shop",
+        "address": "3A671B3",
+        "spriteAddress": "3A67822",
+        "priceAddress": [
+            "3A6719F",
+            "3A671C6"
+        ],
+        "vanillaItem": "Magic Elixyr",
+        "forbidPreciousItems": true
+    },
+    {
+        "name": "Naomi's Shop: Item #4",
+        "nodeId": "naomi_shop",
+        "address": "3A67247",
+        "spriteAddress": "3A67836",
+        "priceAddress": [
+            "3A6721F",
+            "3A67233"
+        ],
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Lake Shrine Exterior (ramparts): Chest in red forcefield generator room",
+        "nodeId": "lake_shrine_exterior_behind_bow",
+        "address": "4D7AAAA",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Lake Shrine Exterior (ramparts): Chest in blue forcefield generator room",
+        "nodeId": "lake_shrine_exterior_behind_bow",
+        "address": "4D7AABE",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Lake Shrine Exterior (ramparts): Left chest behind blue forcefield in left stairway room",
+        "nodeId": "lake_shrine_exterior_behind_bow",
+        "address": "4DA8A5E",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Lake Shrine Exterior (ramparts): Hidden chest in left aisle",
+        "nodeId": "lake_shrine_exterior_behind_bow",
+        "address": "4D44D92",
+        "vanillaItem": "Strength Tonic"
+    },
+    {
+        "name": "Lake Shrine Exterior (garden): Chest to the left of Lake Shrine Interior gate",
+        "nodeId": "lake_shrine_exterior_behind_bow",
+        "address": "5DE3796",
+        "vanillaItem": "Gilded Falcon"
+    },
+    {
+        "name": "Lake Shrine Exterior (garden): Chest to the right of Lake Shrine Interior gate",
+        "nodeId": "lake_shrine_exterior_behind_bow",
+        "address": "5DE37AA",
+        "vanillaItem": "Magic Seed"
+    },
+    {
+        "name": "Lake Shrine Interior (0F): Chest in left aisle kitchen opened after solving the dining room riddle",
+        "nodeId": "lake_shrine_interior",
+        "address": "4AC97EA",
+        "vanillaItem": "Life Vessel"
+    },
+    {
+        "name": "Lake Shrine Interior (0F): Elevated chest in left aisle armors room",
+        "nodeId": "lake_shrine_interior",
+        "address": "4AFD6A2",
+        "vanillaItem": "Strength Tonic"
+    },
+    {
+        "name": "Lake Shrine Interior (0F): Chest in right aisle library",
+        "nodeId": "lake_shrine_interior",
+        "address": "4B7DF06",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Lake Shrine Interior (0F): Chest hidden inside armor in right aisle",
+        "nodeId": "lake_shrine_interior",
+        "address": "4B7DE02",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Lake Shrine Interior (0F): Chest obtained falling from above in right aisle",
+        "nodeId": "lake_shrine_interior_behind_spring",
+        "address": "4B3D3CE",
+        "vanillaItem": "Wonder Essence"
+    },
+    {
+        "name": "Lake Shrine Interior (left tower): Chest in left tower stairway",
+        "nodeId": "lake_shrine_interior",
+        "address": "4AFD5C6",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Lake Shrine Interior (1F): Chest inside bedroom with flamethrowers",
+        "nodeId": "lake_shrine_interior",
+        "address": "4C237A2",
+        "vanillaItem": "Magic Elixyr"
+    },
+    {
+        "name": "Lake Shrine Interior (1F): Chest inside bedroom with 6 switches",
+        "nodeId": "lake_shrine_interior",
+        "address": "4C236C6",
+        "vanillaItem": "Herbs"
+    },
+    {
+        "name": "Lake Shrine Interior (1F): Chest inside archery trial with 9 orbs",
+        "nodeId": "lake_shrine_interior",
+        "address": "4C235FE",
+        "vanillaItem": "Wonder Essence"
+    },
+    {
+        "name": "Lake Shrine Interior (1F): Chest hidden below bricks in room with hole",
+        "nodeId": "lake_shrine_interior_behind_spring",
+        "address": "4C58BD6",
+        "vanillaItem": "Strength Tonic"
+    },
+    {
+        "name": "Lake Shrine Interior (balcony): Chest on left aisle balconies",
+        "nodeId": "lake_shrine_interior",
+        "address": "4E104F6",
+        "vanillaItem": "Wonder Essence"
+    },
+    {
+        "name": "Lake Shrine Interior (balcony): Chest on right aisle balconies",
+        "nodeId": "lake_shrine_interior_behind_spring",
+        "address": "4E4660E",
+        "vanillaItem": "Magic Elixyr"
+    }
+]
