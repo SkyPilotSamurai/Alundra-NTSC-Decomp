@@ -1,0 +1,80 @@
+{
+    "gameSettings": {
+        // If true, the game balance from the japanese version is used instead of the balance edited
+        // by Working Designs for the US version. This mostly changes enemies HP and damage.
+        "originalGameBalance": true,
+
+        // Optional global balance edits. Empty keeps the selected base balance unchanged.
+        "balanceOverrides": [],
+        "instantText": false,
+
+        // If true, you won't have to do Berue's memory minigame to activate megaliths, as they will be activated
+        // on game start. You still have to visit each megalith to unlock the ability to come back there later.
+        "megalithsEnabledOnStart": true,
+
+        // If true, all gates in Lake Shrine exterior & interior will be open right away, allowing the player
+        // to simply go forward to reach the final boss once all crests are collected & placed
+        "skipLastDungeon": true,
+
+        // If true, each boots only give their own effects instead of also giving all previous tiers effects
+        "splitBootsEffects": true,
+
+        // If true, equipment with tiers (weapons, armors and magic) are replaced by "item upgrades" giving
+        // the next tier for that category instead of giving a specific item
+        "progressiveItems": true,
+
+        // The amount of times you need to die in order to be able to get King Snow's item
+        "kingSnowDeathCount": 0,
+
+        /// Casino win counts required on each minigame in order to obtain the second reward
+        "casinoWinCountForLastReward": 1,
+
+        // Initial health when starting the game
+        "startingHealth": 10,
+
+        // Initial mana when starting the game
+        "startingMana": 0,
+
+        // Initial golds when starting the game
+        "startingGold": 0
+    },
+
+    "randomizerSettings": {
+        // If false, the randomizer program will forbid the generation of a full spoiler log, and will only
+        // output the initial settings in that file instead of the full contents of all item sources.
+        "allowSpoilerLog": true,
+
+        // Items initially owned when starting the game
+        "startingInventory": [
+            "Dagger",
+            "Cloth Armor",
+            "Short Boots"
+        ],
+
+        // The amount of crests to find to be able to reach Lake Shrine. Random crests will be picked and added to
+        // the item distribution. The excluded ones will be automatically placed on their corresponding pedestals on
+        // game start.
+        "crestCount": 7,
+
+        // A dictionary used to define item sources that will always contain the same item (keys are item source names,
+        // values are item names)
+        "fixedItemSources": {
+            "Merrick's Shop: Item traded for 50 Gilded Falcons (Spirit Wand)": "Spirit Wand",
+            "Naomi's Shop: Item #4": "Iron Flail"
+        },
+
+        // An array used to define item sources that will never contain an item required for progression
+        "itemSourcesWithoutProgression": [
+            "Riverside Casino: 'Wheel of Fortune' second reward (Gilded Falcon)",
+            "Riverside Casino: 'Hit Your Mark' second reward (Gilded Falcon)",
+            "Riverside Casino: 'Slime Smash' second reward (Gilded Falcon)",
+            "Merrick's Shop: Item traded for 40 Gilded Falcons (Recovery Ring)",
+            "Merrick's Shop: Item traded for 45 Gilded Falcons (Life Vessel)"
+        ],
+
+        // A dictionary used to define the amount of each item the randomizer will scatter across the world.
+        // The total count must not exceed the total count of item sources
+"itemsDistribution": { "Herbs": 60, "Strength Tonic": 14, "Strength Elixyr": 9, "Magic Elixyr": 9, "Wonder Essence": 7, "1 Gilder": 2, "5 Gilder": 20, "10 Gilder": 23, "30 Gilder": 26, "Life Vessel": 20, "Magic Seed": 4, "Gilded Falcon": 50, "Sword": 1, "Fiend Blade": 1, "Holy Sword": 1, "Legend Sword": 1, "Iron Flail": 1, "Steel Flail": 1, "Hunter's Bow": 1, "Willow Bow": 1, "Olga's Ring": 1, "Silver Armlet": 1, "Recovery Ring": 1, "Nava's Charm": 1, "Spirit Wand": 1, "Long Boots": 1, "Merman Boots": 1, "Charm Boots": 1, "Leather Armor": 1, "Ancient Armor": 1, "Silver Armor": 1, "Fire Wand": 1, "Ice Wand": 1, "Bomb": 1, "Spring Bean": 1, "Sand Cape": 1, "Aqua Cape": 1, "Power Glove": 1, "Secret Pass": 1, "Tree Gem": 1, "Bouquet": 1, "Broken Armor": 1, "Small Key": 1, "Sluice Key": 1, "Earth Scroll": 1, "Earth Book": 1, "Water Scroll": 1, "Water Book": 1, "Fire Scroll": 1, "Fire Book": 1, "Wind Scroll": 1, "Wind Book": 1
+}
+    }
+}
